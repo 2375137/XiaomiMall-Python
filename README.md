@@ -1,0 +1,2 @@
+# XiaomiMall-Python
+这个是配合XiaomiMall前端项目使用的后端项目, 使用Python的Flask框架开发的web服务, 可以实时获取小米商城接口数据
