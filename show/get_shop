@@ -1,0 +1,283 @@
+import sqlite3
+import time
+import requests
+
+def get_shop(cat_id, show=0):
+    url = "https://m.mi.com/v1/home/category_v2"
+
+    headers = {
+        "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) "
+                      "Chrome/119.0.0.0 Safari/537.36",
+        "Origin": 'https://m.mi.com',
+        "referer": "https://m.mi.com/category",
+        "Content-Type": "application/x-www-form-urlencoded",
+    }
+
+    data = {
+        "client_id": "180100031051",
+        "channel_id": "",
+        "webp": "1",
+        "cat_id": f"{cat_id}"
+    }
+
+    res = requests.post(url, headers=headers, data=data).json()
+    result = {}
+    img = []
+    tab = {}
+    tab_name = res['data'][0]['category_name']
+    item_dict = []
+    for i in range(len(res['data'][0]['category_list'])):
+        if show == 0:
+            if len(item_dict) > 5:
+                break
+        if res['data'][0]['category_list'][i]['view_type'] == 'cells_auto_fill':
+            for _ in range(len(res['data'][0]['category_list'][i]['body']['items'])):
+                if res['data'][0]['category_list'][i]['body']['items'][_]['path_type'] == 'image':
+                    img.append(res['data'][0]['category_list'][i]['body']['items'][_]['img_url_webp'])  # 获取分类页面的图片
+        if res['data'][0]['category_list'][i]['view_type'] == 'category_group':
+            if show == 0:
+                if len(item_dict) > 5:
+                    break
+            tab_title = res['data'][0]['category_list'][i]['body']['title']
+            if res['data'][0]['category_list'][i]['body']['is_expand']:
+                tab[tab_title] = res['data'][0]['category_list'][i]['body']['product_list']
+                item_dict.extend(res['data'][0]['category_list'][i]['body']['product_list'])
+            else:
+                for _ in range(len(res['data'][0]['category_list'][i]['body']['items'])):
+                    if show == 0:
+                        if len(item_dict) > 5:
+                            break
+                    product_name = res['data'][0]['category_list'][i]['body']['items'][_]['product_name']
+                    path = res['data'][0]['category_list'][i]['body']['items'][_]['action']['path']
+                    if res['data'][0]['category_list'][i]['body']['items'][_]['action']['type'] == 'product':
+                        tab[product_name] = res['data'][0]['category_list'][i]['body']['items'][_]
+                    else:
+                        result_ = get_all_product(path)
+                        tab[product_name] = result_
+                        item_dict.extend(result_)
+    result[tab_name] = tab
+    # print(item_dict)
+    return result, item_dict, img
+
+def connect_sql(sql):
+    conn = sqlite3.connect('data.db')
+    cursor = conn.cursor()
+    try:
+        cursor.execute(sql)
+        conn.commit()
+    except Exception as e:
+        print(e)
+    conn.close()
+
+
+def search_sql(sql):
+    conn = sqlite3.connect('data.db')
+    cursor = conn.cursor()
+    result = cursor.execute(sql).fetchone()
+    conn.commit()
+    conn.close()
+    return result
+
+
+def get_info(product_id):
+    url = "https://m.mi.com/mtop/xiaomishop/product/info"
+
+    headers = {
+        'user-agent': "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) "
+                      "Chrome/119.0.0.0 Mobile Safari/537.36",
+        "Origin": 'https://m.mi.com',
+        "referer": "https://m.mi.com/commodity/detail/19288"
+    }
+
+    data = [{}, {"productId": product_id}]
+
+    res = requests.post(url, json=data, headers=headers).text
+
+    return res
+
+
+def get_all_shop():
+    url = "https://m.mi.com/v1/home/category_v2"
+    data = "client_id=180100031051&channel_id=&webp=1"
+
+    headers = {
+        'user-agent': "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) "
+                      "Chrome/119.0.0.0 Mobile Safari/537.36",
+        "Origin": 'https://m.mi.com',
+        "referer": "https://m.mi.com/category",
+        "Content-Type": "application/x-www-form-urlencoded"
+    }
+
+    res = requests.post(url, headers=headers, data=data).json()
+    # print(res)
+
+    for i in range(len(res['data'])):
+        time.sleep(1)
+        father_title = res['data'][i]['category_name']
+        category_id = res['data'][i]['category_id']
+        # sql = (f"insert into tabs_father(title_name,title_type,title_id) "
+        #        f"values ('{father_title}', 0, '{category_id}')")
+        # connect_sql(sql)
+        # if category_id != -1:
+        #     get_one_title(father_title, category_id)
+        if i == 0:
+            continue
+        try:
+            category_list = res['data'][i]['category_list']
+        except KeyError:
+            get_one_title(father_title, category_id)
+            continue
+        for k in range(len(category_list)):
+            if category_list[k]['view_type'] == 'cells_auto_fill':
+                img = category_list[k]['body']['items'][0]['img_url']
+            elif category_list[k]['view_type'] == 'category_group':
+                title = category_list[k]['body']['title']
+                try:
+                    product = category_list[k]['body']['product_list']
+                    for _ in range(len(product)):
+                        time.sleep(1)
+                        desc = product[_]['product_desc_origin']
+                        name = product[_]['name']
+                        product_id = product[_]['product_id']
+                except KeyError:
+                    product = category_list[k]['body']['items']
+                    for _ in range(len(product)):
+                        name = product[_]['product_name']
+                        try:
+                            product_id = int(product[_]['action']['path'])
+                        except Exception as e:
+                            print(e)
+                            product_id = product[_]['action']['path']
+                        if type(product_id) is int:
+                            get_all_product(product_id, name, str(category_id) + str(k))
+                            print("子节点: " + name)
+                            print(str(category_id) + str(k))
+                        else:
+                            pass
+
+
+def get_one_title(father_title, title_search_id):
+    url = "https://m.mi.com/v1/home/category_v2"
+
+    headers = {
+        "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) "
+                      "Chrome/119.0.0.0 Safari/537.36",
+        "Origin": 'https://m.mi.com',
+        "referer": "https://m.mi.com/category",
+        "Content-Type": "application/x-www-form-urlencoded",
+    }
+
+    data = {
+        "client_id": "180100031051",
+        "channel_id": "",
+        "webp": "1",
+        "cat_id": f"{title_search_id}"
+    }
+
+    res = requests.post(url, headers=headers, data=data).json()
+    category_list = res['data'][0]['category_list']
+    for k in range(len(category_list)):
+        time.sleep(1)
+        if category_list[k]['view_type'] == 'category_group':
+            title = category_list[k]['body']['title']
+            sql = (f"insert into tabs_child(title_name,father_name,father_title_id,title_id) "
+                   f"values "
+                   f"('{title}', '{father_title}', '{str(title_search_id)}',"
+                   f" '{str(title_search_id) + str(k)}')")
+            connect_sql(sql)
+            try:
+                product = category_list[k]['body']['product_list']
+                for _ in range(len(product)):
+                    time.sleep(1)
+                    name = product[_]['name']
+                    desc = product[_]['product_desc_origin']
+                    product_id = product[_]['product_id']
+                    sql = (f"insert into "
+                           f"mall_shop(shop_id,shop_name,desc,shop_father_id,shop_top_id)"
+                           f" values"
+                           f" ('{product_id}','{name}','{desc}',"
+                           f"'{str(title_search_id) + str(k)}','{str(title_search_id)}')")
+                    connect_sql(sql)
+            except KeyError:
+                product = category_list[k]['body']['items']
+                for _ in range(len(product)):
+                    try:
+                        product_id = int(product[_]['action']['path'])
+                    except Exception as e:
+                        print(e)
+                        product_id = product[_]['action']['path']
+                    name = product[_]['product_name']
+                    if type(product_id) is int:
+                        sql = f"insert into tabs_grandson(title_name, title_id, title_father_id) values ('{name}','{product_id}','{str(title_search_id) + str(k)}')"
+                        connect_sql(sql)
+                        get_all_product(product_id, name, str(title_search_id) + str(k))
+                    else:
+                        sql = (f"insert into "
+                               f"mall_shop(shop_id,shop_name,shop_father_id,shop_top_id)"
+                               f" values"
+                               f" ('{product_id}','{name}',"
+                               f"'{str(title_search_id) + str(k)}','{str(title_search_id)}')")
+                        connect_sql(sql)
+
+
+def get_all_product(title_search_id, name='', father='0'):
+    url = "https://m.mi.com/v1/product/all_product"
+
+    data = {
+        "client_id": "180100031051",
+        "channel_id": "",
+        "webp": "1",
+        "cat_id": f"{title_search_id}"
+    }
+
+    headers = {
+        "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) "
+                      "Chrome/119.0.0.0 Safari/537.36",
+        "Origin": 'https://m.mi.com',
+        "referer": "https://m.mi.com/category",
+        "Content-Type": "application/x-www-form-urlencoded",
+    }
+
+    res = requests.post(url, data=data, headers=headers).json()
+
+    try:
+        product_list = res['data']['product']
+        for i in range(len(product_list)):
+            name = product_list[i]['name']
+            product_id = product_list[i]['product_id']
+            desc = product_list[i]['product_desc_origin']
+            sql = (f"insert into "
+                   f"mall_shop(shop_id,shop_name,desc,shop_father_id,shop_top_id)"
+                   f" values"
+                   f" ('{product_id}','{name}','{desc}',"
+                   f"'{str(title_search_id)}','{str(father)}')")
+            connect_sql(sql)
+    except KeyError:
+        sql = (f"insert into "
+               f"mall_shop(shop_id,shop_name,shop_father_id,shop_top_id)"
+               f" values"
+               f" ('{title_search_id}','{name}',"
+               f"'{str(title_search_id)}','{str(father)}')")
+        connect_sql(sql)
+
+
+# get_all_product(687)
+# get_all_shop()
+
+# get_info("15468")
+# def user_sign_in(user_id, user_pwd):
+#     if 8 <= len(user_pwd) <= 16:
+#         sql = f"select user_pwd from user_info where user_id = '{user_id}'"
+#         result = search_sql(sql)
+#         if result is not None:
+#             if str(user_pwd) == str(result[0]):
+#                 return True
+#             else:
+#                 return False
+#         else:
+#             return False
+#     else:
+#         return False
+#
+#
+# print(user_sign_in("10000", '123456789'))

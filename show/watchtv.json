@@ -1,0 +1,1513 @@
+{
+  "32-43英寸": [
+    {
+      "cat_id": 0,
+      "comments_total": "71515",
+      "is_multi_price": false,
+      "is_stock": false,
+      "log_code": "bpm=83.250.3881506.5&cdm=0.1.mjawms1naxnob3bsyw5rlxhpyw9tav9jyxrlz29yev9wywdllwv4celkxzgxnzq4ni1lehbjzf8xmjc4ndy4lwv4celkxzewodkymzgtzxhwswrfmtixnzg4mc1lehbjzf8zmzc4ndqtdhjhy2vjzf83ywu4mwe1owrjmte0oddjodexogu3ytkyzgu0nmy3oa==.0&uni=8.687&next=6.64.2.18584",
+      "market_price": "1399",
+      "name": "小米电视ea43  l43ma-e  43英寸",
+      "price": "929",
+      "product_desc": "金属全面屏、震撼音效、双频wifi",
+      "product_desc_origin": "金属全面屏、震撼音效、双频wifi",
+      "product_id": 18584,
+      "puzzle_url": "https://cdn.cnbj1.fds.api.mi-img.com/nr-pub/202306171948_d56fd1156bef4478584821b156dc0be4.png?w=800&h=800",
+      "satisfy_per": "99.9%",
+      "spm_stat": {
+        "scm": "server.0.0.0.product.687.0.0",
+        "spm_code": "category_stmt.product.1",
+        "spm_params": "{\"product_id\":18584}"
+      }
+    },
+    {
+      "cat_id": 0,
+      "comments_total": "17819",
+      "is_multi_price": false,
+      "is_stock": false,
+      "log_code": "bpm=83.250.3881506.6&cdm=0.1.mjawms1naxnob3bsyw5rlxhpyw9tav9jyxrlz29yev9wywdllwv4celkxzgxnzq4ni1lehbjzf8xmjc4ndy4lwv4celkxzewodkymzgtzxhwswrfmtixnzg4mc1lehbjzf8zmzc4ndqtdhjhy2vjzf83ywu4mwe1owrjmte0oddjodexogu3ytkyzgu0nmy3oa==.0&uni=8.687&next=6.64.2.18600",
+      "market_price": "799",
+      "name": "小米电视 ea32（ l32ma-e）",
+      "price": "649",
+      "product_desc": "金属全面屏|1+8g|双频wifi",
+      "product_desc_origin": "金属全面屏|1+8g|双频wifi",
+      "product_id": 18600,
+      "puzzle_url": "https://cdn.cnbj1.fds.api.mi-img.com/nr-pub/202306261733_6c9567d8d5b912d7c80b6d4df7a2e4cb.png?w=800&h=800",
+      "satisfy_per": "99.9%",
+      "spm_stat": {
+        "scm": "server.0.0.0.product.687.0.0",
+        "spm_code": "category_stmt.product.2",
+        "spm_params": "{\"product_id\":18600}"
+      }
+    },
+    {
+      "cat_id": 0,
+      "comments_total": "8124",
+      "is_multi_price": false,
+      "is_stock": false,
+      "log_code": "bpm=83.250.3881506.7&cdm=0.1.mjawms1naxnob3bsyw5rlxhpyw9tav9jyxrlz29yev9wywdllwv4celkxzgxnzq4ni1lehbjzf8xmjc4ndy4lwv4celkxzewodkymzgtzxhwswrfmtixnzg4mc1lehbjzf8zmzc4ndqtdhjhy2vjzf83ywu4mwe1owrjmte0oddjodexogu3ytkyzgu0nmy3oa==.0&uni=8.687&next=6.64.2.18612",
+      "market_price": "799",
+      "name": "redmi 智能电视 a32 2024款 32英寸 ",
+      "price": "649",
+      "product_desc": "超高屏占比 | 金属全面屏 | 双扬声器立体声",
+      "product_desc_origin": "超高屏占比 | 金属全面屏 | 双扬声器立体声",
+      "product_id": 18612,
+      "puzzle_url": "https://cdn.cnbj1.fds.api.mi-img.com/nr-pub/202307061615_bfe242d4d516fdc0d9f2126348e6889f.jpg?w=800&h=800",
+      "satisfy_per": "99.8%",
+      "spm_stat": {
+        "scm": "server.0.0.0.product.687.0.0",
+        "spm_code": "category_stmt.product.3",
+        "spm_params": "{\"product_id\":18612}"
+      }
+    },
+    {
+      "cat_id": 0,
+      "comments_total": "6736",
+      "is_multi_price": false,
+      "is_stock": false,
+      "log_code": "bpm=83.250.3881506.8&cdm=0.1.mjawms1naxnob3bsyw5rlxhpyw9tav9jyxrlz29yev9wywdllwv4celkxzgxnzq4ni1lehbjzf8xmjc4ndy4lwv4celkxzewodkymzgtzxhwswrfmtixnzg4mc1lehbjzf8zmzc4ndqtdhjhy2vjzf83ywu4mwe1owrjmte0oddjodexogu3ytkyzgu0nmy3oa==.0&uni=8.687&next=6.64.2.18613",
+      "market_price": "1099",
+      "name": "redmi 智能电视 a43 2024款 43英寸",
+      "price": "849",
+      "product_desc": "高清画质 | 金属全面屏 | 双扬声器立体声",
+      "product_desc_origin": "高清画质 | 金属全面屏 | 双扬声器立体声",
+      "product_id": 18613,
+      "puzzle_url": "https://cdn.cnbj1.fds.api.mi-img.com/nr-pub/202307061639_dd42e362a6ccf7eafb36048f76e83483.jpg?w=800&h=800",
+      "satisfy_per": "99.7%",
+      "spm_stat": {
+        "scm": "server.0.0.0.product.687.0.0",
+        "spm_code": "category_stmt.product.4",
+        "spm_params": "{\"product_id\":18613}"
+      }
+    },
+    {
+      "cat_id": 0,
+      "comments_total": "12146",
+      "is_multi_price": false,
+      "is_stock": false,
+      "log_code": "bpm=83.250.3881506.2&cdm=0.1.mjawms1naxnob3bsyw5rlxhpyw9tav9jyxrlz29yev9wywdllwv4celkxzgxnzq4ni1lehbjzf8xmjc4ndy4lwv4celkxzewodkymzgtzxhwswrfmtixnzg4mc1lehbjzf8zmzc4ndqtdhjhy2vjzf83ywu4mwe1owrjmte0oddjodexogu3ytkyzgu0nmy3oa==.0&uni=8.687&next=6.64.2.18495",
+      "market_price": "1699",
+      "name": "小米电视 a pro 43英寸",
+      "price": "1399",
+      "product_desc": "金属全面屏、4k超高清、2gb+32gb大存储",
+      "product_desc_origin": "金属全面屏、4k超高清、2gb+32gb大存储",
+      "product_id": 18495,
+      "puzzle_url": "https://cdn.cnbj1.fds.api.mi-img.com/nr-pub/202304280954_0bd534514ffd7111b26573c1769fcc34.png?w=800&h=800",
+      "satisfy_per": "100.0%",
+      "spm_stat": {
+        "scm": "server.0.0.0.product.687.0.0",
+        "spm_code": "category_stmt.product.5",
+        "spm_params": "{\"product_id\":18495}"
+      }
+    },
+    {
+      "cat_id": 0,
+      "comments_total": "93442",
+      "is_multi_price": false,
+      "is_stock": false,
+      "log_code": "bpm=83.250.3881506.1&cdm=0.1.mjawms1naxnob3bsyw5rlxhpyw9tav9jyxrlz29yev9wywdllwv4celkxzgxnzq4ni1lehbjzf8xmjc4ndy4lwv4celkxzewodkymzgtzxhwswrfmtixnzg4mc1lehbjzf8zmzc4ndqtdhjhy2vjzf83ywu4mwe1owrjmte0oddjodexogu3ytkyzgu0nmy3oa==.0&uni=8.687&next=6.64.2.14416",
+      "market_price": "1799",
+      "name": "小米电视es43 43英寸",
+      "price": "1699",
+      "product_desc": "金属全面屏 | 4k超高清 | memc动态补偿",
+      "product_desc_origin": "金属全面屏 | 4k超高清 | memc动态补偿",
+      "product_id": 14416,
+      "puzzle_url": "https://cdn.cnbj1.fds.api.mi-img.com/mi-mall/b88e93385d6a306c153b70de3b9d2aff.png?w=800&h=800",
+      "satisfy_per": "99.9%",
+      "spm_stat": {
+        "scm": "server.0.0.0.product.687.0.0",
+        "spm_code": "category_stmt.product.6",
+        "spm_params": "{\"product_id\":14416}"
+      }
+    },
+    {
+      "cat_id": 0,
+      "comments_total": "35",
+      "is_multi_price": false,
+      "is_stock": false,
+      "log_code": "bpm=83.250.3881506.3&cdm=0.1.mjawms1naxnob3bsyw5rlxhpyw9tav9jyxrlz29yev9wywdllwv4celkxzgxnzq4ni1lehbjzf8xmjc4ndy4lwv4celkxzewodkymzgtzxhwswrfmtixnzg4mc1lehbjzf8zmzc4ndqtdhjhy2vjzf83ywu4mwe1owrjmte0oddjodexogu3ytkyzgu0nmy3oa==.0&uni=8.687&next=6.64.2.18528",
+      "market_price": "999",
+      "name": "小米电视a32   32英寸",
+      "price": "699",
+      "product_desc": "1、金属全面屏\n2、1+8g超大内存\n2、双频wifi\n3、混合调光",
+      "product_desc_origin": "1、金属全面屏\n2、1+8g超大内存\n2、双频wifi\n3、混合调光",
+      "product_id": 18528,
+      "puzzle_url": "https://cdn.cnbj1.fds.api.mi-img.com/nr-pub/202305231118_a18235a56af89f507f3cdd2242f5fac2.png?w=800&h=800",
+      "satisfy_per": "100.0%",
+      "spm_stat": {
+        "scm": "server.0.0.0.product.687.0.0",
+        "spm_code": "category_stmt.product.7",
+        "spm_params": "{\"product_id\":18528}"
+      }
+    },
+    {
+      "cat_id": 0,
+      "comments_total": "17",
+      "is_multi_price": false,
+      "is_stock": false,
+      "log_code": "bpm=83.250.3881506.4&cdm=0.1.mjawms1naxnob3bsyw5rlxhpyw9tav9jyxrlz29yev9wywdllwv4celkxzgxnzq4ni1lehbjzf8xmjc4ndy4lwv4celkxzewodkymzgtzxhwswrfmtixnzg4mc1lehbjzf8zmzc4ndqtdhjhy2vjzf83ywu4mwe1owrjmte0oddjodexogu3ytkyzgu0nmy3oa==.0&uni=8.687&next=6.64.2.18529",
+      "market_price": "1399",
+      "name": "小米电视a43  43英寸",
+      "price": "949",
+      "product_desc": "小米电视a43 43英寸电视",
+      "product_desc_origin": "小米电视a43 43英寸电视",
+      "product_id": 18529,
+      "puzzle_url": "https://cdn.cnbj1.fds.api.mi-img.com/nr-pub/202305231123_a7ef73ba35cbff6fded6d7a0d2f27aac.png?w=800&h=800",
+      "satisfy_per": "100.0%",
+      "spm_stat": {
+        "scm": "server.0.0.0.product.687.0.0",
+        "spm_code": "category_stmt.product.8",
+        "spm_params": "{\"product_id\":18529}"
+      }
+    }
+  ],
+  "50-58英寸": [
+    {
+      "cat_id": 0,
+      "comments_total": "48453",
+      "is_multi_price": false,
+      "is_stock": false,
+      "log_code": "bpm=83.250.3881506.16&cdm=0.1.mjawms1naxnob3bsyw5rlxhpyw9tav9jyxrlz29yev9wywdllwv4celkxzgxnzq4ni1lehbjzf8xmjc4ndy4lwv4celkxzewodkymzgtzxhwswrfmtixnzg4mc1lehbjzf8zmzc4ndqtdhjhy2vjzf9intlhntqznwmxzda0mtg3ywnizmu5ymm2yzfhndnknq==.0&uni=8.326&next=6.64.2.18595",
+      "market_price": "1799",
+      "name": "小米电视ea55（l55ma-ea）55英寸",
+      "price": "1599",
+      "product_desc": "金属全面屏 | 远场语音 | 双频wifi",
+      "product_desc_origin": "金属全面屏 | 远场语音 | 双频wifi",
+      "product_id": 18595,
+      "puzzle_url": "https://cdn.cnbj1.fds.api.mi-img.com/nr-pub/202306261733_6c9567d8d5b912d7c80b6d4df7a2e4cb.png?w=800&h=800",
+      "satisfy_per": "99.9%",
+      "spm_stat": {
+        "scm": "server.0.0.0.product.326.0.0",
+        "spm_code": "category_stmt.product.1",
+        "spm_params": "{\"product_id\":18595}"
+      }
+    },
+    {
+      "cat_id": 0,
+      "comments_total": "9125",
+      "is_multi_price": false,
+      "is_stock": false,
+      "log_code": "bpm=83.250.3881506.12&cdm=0.1.mjawms1naxnob3bsyw5rlxhpyw9tav9jyxrlz29yev9wywdllwv4celkxzgxnzq4ni1lehbjzf8xmjc4ndy4lwv4celkxzewodkymzgtzxhwswrfmtixnzg4mc1lehbjzf8zmzc4ndqtdhjhy2vjzf9intlhntqznwmxzda0mtg3ywnizmu5ymm2yzfhndnknq==.0&uni=8.326&next=6.64.2.18438",
+      "market_price": "1999",
+      "name": "小米电视a55竞技版  55英寸",
+      "price": "1999",
+      "product_desc": "120hz全面屏，疾速升级",
+      "product_desc_origin": "120hz全面屏，疾速升级",
+      "product_id": 18438,
+      "puzzle_url": "https://cdn.cnbj1.fds.api.mi-img.com/nr-pub/202307241035_725ba5f8346b9440267d45436ee02f7b.png?w=800&h=800",
+      "satisfy_per": "99.6%",
+      "spm_stat": {
+        "scm": "server.0.0.0.product.326.0.0",
+        "spm_code": "category_stmt.product.2",
+        "spm_params": "{\"product_id\":18438}"
+      }
+    },
+    {
+      "cat_id": 0,
+      "comments_total": "3459",
+      "is_multi_price": false,
+      "is_stock": false,
+      "log_code": "bpm=83.250.3881506.17&cdm=0.1.mjawms1naxnob3bsyw5rlxhpyw9tav9jyxrlz29yev9wywdllwv4celkxzgxnzq4ni1lehbjzf8xmjc4ndy4lwv4celkxzewodkymzgtzxhwswrfmtixnzg4mc1lehbjzf8zmzc4ndqtdhjhy2vjzf9intlhntqznwmxzda0mtg3ywnizmu5ymm2yzfhndnknq==.0&uni=8.326&next=6.64.2.18641",
+      "market_price": "1799",
+      "name": "redmi 智能电视 a55 2024款 55英寸",
+      "price": "1599",
+      "product_desc": "4k超高清画质 | 金属全面屏 | 远场语音",
+      "product_desc_origin": "4k超高清画质 | 金属全面屏 | 远场语音",
+      "product_id": 18641,
+      "puzzle_url": "https://cdn.cnbj1.fds.api.mi-img.com/nr-pub/202307181527_499ef17050bfcb6bcc3bd24029fea508.png?w=800&h=800",
+      "satisfy_per": "99.6%",
+      "spm_stat": {
+        "scm": "server.0.0.0.product.326.0.0",
+        "spm_code": "category_stmt.product.3",
+        "spm_params": "{\"product_id\":18641}"
+      }
+    },
+    {
+      "cat_id": 0,
+      "comments_total": "7455",
+      "is_multi_price": false,
+      "is_stock": false,
+      "log_code": "bpm=83.250.3881506.14&cdm=0.1.mjawms1naxnob3bsyw5rlxhpyw9tav9jyxrlz29yev9wywdllwv4celkxzgxnzq4ni1lehbjzf8xmjc4ndy4lwv4celkxzewodkymzgtzxhwswrfmtixnzg4mc1lehbjzf8zmzc4ndqtdhjhy2vjzf9intlhntqznwmxzda0mtg3ywnizmu5ymm2yzfhndnknq==.0&uni=8.326&next=6.64.2.18487",
+      "market_price": "2599",
+      "name": "小米电视s55    55英寸",
+      "price": "2599",
+      "product_desc": "144hz超高刷  3+32g   多色温色彩还原技术",
+      "product_desc_origin": "144hz超高刷  3+32g   多色温色彩还原技术",
+      "product_id": 18487,
+      "puzzle_url": "https://cdn.cnbj1.fds.api.mi-img.com/nr-pub/202303201156_c95135c31082640c8f42f9a61966b635.png?w=800&h=800",
+      "satisfy_per": "99.6%",
+      "spm_stat": {
+        "scm": "server.0.0.0.product.326.0.0",
+        "spm_code": "category_stmt.product.4",
+        "spm_params": "{\"product_id\":18487}"
+      }
+    },
+    {
+      "cat_id": 0,
+      "comments_total": "219291",
+      "is_multi_price": false,
+      "is_stock": false,
+      "labels": [
+        "赠"
+      ],
+      "log_code": "bpm=83.250.3881506.5&cdm=0.1.mjawms1naxnob3bsyw5rlxhpyw9tav9jyxrlz29yev9wywdllwv4celkxzgxnzq4ni1lehbjzf8xmjc4ndy4lwv4celkxzewodkymzgtzxhwswrfmtixnzg4mc1lehbjzf8zmzc4ndqtdhjhy2vjzf9intlhntqznwmxzda0mtg3ywnizmu5ymm2yzfhndnknq==.0&uni=8.326&next=6.64.2.14417",
+      "market_price": "2999",
+      "name": "小米电视es55 55英寸 ",
+      "price": "2449",
+      "product_desc": "多分区背光 | memc动态补偿 | 杜比视界",
+      "product_desc_origin": "多分区背光 | memc动态补偿 | 杜比视界",
+      "product_id": 14417,
+      "puzzle_url": "https://cdn.cnbj1.fds.api.mi-img.com/mi-mall/a2cfbf298280d05b2fb3a482ac5d8009.png?w=800&h=800",
+      "satisfy_per": "99.9%",
+      "spm_stat": {
+        "scm": "server.0.0.0.product.326.0.0",
+        "spm_code": "category_stmt.product.5",
+        "spm_params": "{\"product_id\":14417}"
+      }
+    },
+    {
+      "cat_id": 0,
+      "comments_total": "50627",
+      "is_multi_price": false,
+      "is_stock": false,
+      "log_code": "bpm=83.250.3881506.10&cdm=0.1.mjawms1naxnob3bsyw5rlxhpyw9tav9jyxrlz29yev9wywdllwv4celkxzgxnzq4ni1lehbjzf8xmjc4ndy4lwv4celkxzewodkymzgtzxhwswrfmtixnzg4mc1lehbjzf8zmzc4ndqtdhjhy2vjzf9intlhntqznwmxzda0mtg3ywnizmu5ymm2yzfhndnknq==.0&uni=8.326&next=6.64.2.15421",
+      "market_price": "2399",
+      "name": "小米电视es50 50英寸",
+      "price": "1999",
+      "product_desc": "多分区背光 | memc动态补偿 | 杜比视界",
+      "product_desc_origin": "多分区背光 | memc动态补偿 | 杜比视界",
+      "product_id": 15421,
+      "puzzle_url": "https://cdn.cnbj1.fds.api.mi-img.com/mi-mall/d04ebee3b15421ad0f446b63f521d88c.png?w=800&h=800",
+      "satisfy_per": "99.9%",
+      "spm_stat": {
+        "scm": "server.0.0.0.product.326.0.0",
+        "spm_code": "category_stmt.product.6",
+        "spm_params": "{\"product_id\":15421}"
+      }
+    },
+    {
+      "cat_id": 0,
+      "comments_total": "13673",
+      "is_multi_price": false,
+      "is_stock": false,
+      "log_code": "bpm=83.250.3881506.3&cdm=0.1.mjawms1naxnob3bsyw5rlxhpyw9tav9jyxrlz29yev9wywdllwv4celkxzgxnzq4ni1lehbjzf8xmjc4ndy4lwv4celkxzewodkymzgtzxhwswrfmtixnzg4mc1lehbjzf8zmzc4ndqtdhjhy2vjzf9intlhntqznwmxzda0mtg3ywnizmu5ymm2yzfhndnknq==.0&uni=8.326&next=6.64.2.18654",
+      "market_price": "1599",
+      "name": "小米电视ea50（l50ma-ea）  50英寸",
+      "price": "1449",
+      "product_desc": "金属全面屏、远场语音、双频wifi",
+      "product_desc_origin": "金属全面屏、远场语音、双频wifi",
+      "product_id": 18654,
+      "puzzle_url": "https://cdn.cnbj1.fds.api.mi-img.com/nr-pub/202306171948_d56fd1156bef4478584821b156dc0be4.png?w=800&h=800",
+      "satisfy_per": "99.9%",
+      "spm_stat": {
+        "scm": "server.0.0.0.product.326.0.0",
+        "spm_code": "category_stmt.product.7",
+        "spm_params": "{\"product_id\":18654}"
+      }
+    },
+    {
+      "cat_id": 0,
+      "comments_total": "1648",
+      "is_multi_price": false,
+      "is_stock": false,
+      "log_code": "bpm=83.250.3881506.2&cdm=0.1.mjawms1naxnob3bsyw5rlxhpyw9tav9jyxrlz29yev9wywdllwv4celkxzgxnzq4ni1lehbjzf8xmjc4ndy4lwv4celkxzewodkymzgtzxhwswrfmtixnzg4mc1lehbjzf8zmzc4ndqtdhjhy2vjzf9intlhntqznwmxzda0mtg3ywnizmu5ymm2yzfhndnknq==.0&uni=8.326&next=6.64.2.18644",
+      "market_price": "1599",
+      "name": "redmi 智能电视 a50 2024款 50英寸",
+      "price": "1399",
+      "product_desc": "4k超高清画质 | 金属全面屏 | 远场语音",
+      "product_desc_origin": "4k超高清画质 | 金属全面屏 | 远场语音",
+      "product_id": 18644,
+      "puzzle_url": "https://cdn.cnbj1.fds.api.mi-img.com/nr-pub/202307181620_8dff96f288d4116e9bc8a169c57d892b.png?w=800&h=800",
+      "satisfy_per": "99.5%",
+      "spm_stat": {
+        "scm": "server.0.0.0.product.326.0.0",
+        "spm_code": "category_stmt.product.8",
+        "spm_params": "{\"product_id\":18644}"
+      }
+    },
+    {
+      "cat_id": 0,
+      "comments_total": "22672",
+      "is_multi_price": false,
+      "is_stock": false,
+      "log_code": "bpm=83.250.3881506.11&cdm=0.1.mjawms1naxnob3bsyw5rlxhpyw9tav9jyxrlz29yev9wywdllwv4celkxzgxnzq4ni1lehbjzf8xmjc4ndy4lwv4celkxzewodkymzgtzxhwswrfmtixnzg4mc1lehbjzf8zmzc4ndqtdhjhy2vjzf9intlhntqznwmxzda0mtg3ywnizmu5ymm2yzfhndnknq==.0&uni=8.326&next=6.64.2.16287",
+      "market_price": "3599",
+      "name": "小米电视 es pro 55英寸  ",
+      "price": "3099",
+      "product_desc": "多分区背光 |  双120hz高刷 | 700nits峰值亮度",
+      "product_desc_origin": "多分区背光 |  双120hz高刷 | 700nits峰值亮度",
+      "product_id": 16287,
+      "puzzle_url": "https://cdn.cnbj1.fds.api.mi-img.com/nr-pub/202205191448_4a4daa9e55f76c3779aadfdec63d3bea.png?w=800&h=800",
+      "satisfy_per": "99.9%",
+      "spm_stat": {
+        "scm": "server.0.0.0.product.326.0.0",
+        "spm_code": "category_stmt.product.9",
+        "spm_params": "{\"product_id\":16287}"
+      }
+    },
+    {
+      "cat_id": 0,
+      "comments_total": "54890",
+      "is_multi_price": false,
+      "is_stock": false,
+      "log_code": "bpm=83.250.3881506.13&cdm=0.1.mjawms1naxnob3bsyw5rlxhpyw9tav9jyxrlz29yev9wywdllwv4celkxzgxnzq4ni1lehbjzf8xmjc4ndy4lwv4celkxzewodkymzgtzxhwswrfmtixnzg4mc1lehbjzf8zmzc4ndqtdhjhy2vjzf9intlhntqznwmxzda0mtg3ywnizmu5ymm2yzfhndnknq==.0&uni=8.326&next=6.64.2.18459",
+      "market_price": "2299",
+      "name": "小米电视 a pro 55英寸",
+      "price": "2299",
+      "product_desc": "120hz竞技模式、400nits峰值亮度、2gb+32gb大存储",
+      "product_desc_origin": "120hz竞技模式、400nits峰值亮度、2gb+32gb大存储",
+      "product_id": 18459,
+      "puzzle_url": "https://cdn.cnbj1.fds.api.mi-img.com/nr-pub/202304280954_0bd534514ffd7111b26573c1769fcc34.png?w=800&h=800",
+      "satisfy_per": "99.9%",
+      "spm_stat": {
+        "scm": "server.0.0.0.product.326.0.0",
+        "spm_code": "category_stmt.product.10",
+        "spm_params": "{\"product_id\":18459}"
+      }
+    },
+    {
+      "cat_id": 0,
+      "comments_total": "199",
+      "is_multi_price": false,
+      "is_stock": false,
+      "log_code": "bpm=83.250.3881506.1&cdm=0.1.mjawms1naxnob3bsyw5rlxhpyw9tav9jyxrlz29yev9wywdllwv4celkxzgxnzq4ni1lehbjzf8xmjc4ndy4lwv4celkxzewodkymzgtzxhwswrfmtixnzg4mc1lehbjzf8zmzc4ndqtdhjhy2vjzf9intlhntqznwmxzda0mtg3ywnizmu5ymm2yzfhndnknq==.0&uni=8.326&next=6.64.2.12643",
+      "market_price": "49999",
+      "name": "小米透明oled电视 55英寸 ",
+      "price": "49999",
+      "product_desc": "透明oled屏幕 | 120hz memc | 透明交互系统",
+      "product_desc_origin": "透明oled屏幕 | 120hz memc | 透明交互系统",
+      "product_id": 12643,
+      "puzzle_url": "https://cdn.cnbj1.fds.api.mi-img.com/mi-mall/a14e7a492664a07c4292fcd192bd495c.png?w=800&h=800",
+      "satisfy_per": "100.0%",
+      "spm_stat": {
+        "scm": "server.0.0.0.product.326.0.0",
+        "spm_code": "category_stmt.product.11",
+        "spm_params": "{\"product_id\":12643}"
+      }
+    },
+    {
+      "cat_id": 0,
+      "comments_total": "35",
+      "is_multi_price": false,
+      "is_stock": false,
+      "log_code": "bpm=83.250.3881506.4&cdm=0.1.mjawms1naxnob3bsyw5rlxhpyw9tav9jyxrlz29yev9wywdllwv4celkxzgxnzq4ni1lehbjzf8xmjc4ndy4lwv4celkxzewodkymzgtzxhwswrfmtixnzg4mc1lehbjzf8zmzc4ndqtdhjhy2vjzf9intlhntqznwmxzda0mtg3ywnizmu5ymm2yzfhndnknq==.0&uni=8.326&next=6.64.2.19399",
+      "market_price": "1999",
+      "name": "小米电视a50   50英寸",
+      "price": "1549",
+      "product_desc": "小米电视a50   50英寸",
+      "product_desc_origin": "小米电视a50   50英寸",
+      "product_id": 19399,
+      "puzzle_url": "https://cdn.cnbj1.fds.api.mi-img.com/nr-pub/202305231118_a18235a56af89f507f3cdd2242f5fac2.png?w=800&h=800",
+      "satisfy_per": "100.0%",
+      "spm_stat": {
+        "scm": "server.0.0.0.product.326.0.0",
+        "spm_code": "category_stmt.product.12",
+        "spm_params": "{\"product_id\":19399}"
+      }
+    },
+    {
+      "cat_id": 0,
+      "comments_total": "6362",
+      "is_multi_price": false,
+      "is_stock": false,
+      "log_code": "bpm=83.250.3881506.6&cdm=0.1.mjawms1naxnob3bsyw5rlxhpyw9tav9jyxrlz29yev9wywdllwv4celkxzgxnzq4ni1lehbjzf8xmjc4ndy4lwv4celkxzewodkymzgtzxhwswrfmtixnzg4mc1lehbjzf8zmzc4ndqtdhjhy2vjzf9intlhntqznwmxzda0mtg3ywnizmu5ymm2yzfhndnknq==.0&uni=8.326&next=6.64.2.14437",
+      "market_price": "5999",
+      "name": "小米电视6至尊版 55英寸 ",
+      "price": "4899",
+      "product_desc": "百级分区背光 | 双120hz高刷 | 4.5gb+64gb",
+      "product_desc_origin": "百级分区背光 | 双120hz高刷 | 4.5gb+64gb",
+      "product_id": 14437,
+      "puzzle_url": "https://cdn.cnbj1.fds.api.mi-img.com/mi-mall/1f22f1fb65c009d2d6df4125c432676e.png?w=800&h=800",
+      "satisfy_per": "99.7%",
+      "spm_stat": {
+        "scm": "server.0.0.0.product.326.0.0",
+        "spm_code": "category_stmt.product.13",
+        "spm_params": "{\"product_id\":14437}"
+      }
+    },
+    {
+      "cat_id": 0,
+      "comments_total": "18",
+      "is_multi_price": false,
+      "is_stock": false,
+      "log_code": "bpm=83.250.3881506.15&cdm=0.1.mjawms1naxnob3bsyw5rlxhpyw9tav9jyxrlz29yev9wywdllwv4celkxzgxnzq4ni1lehbjzf8xmjc4ndy4lwv4celkxzewodkymzgtzxhwswrfmtixnzg4mc1lehbjzf8zmzc4ndqtdhjhy2vjzf9intlhntqznwmxzda0mtg3ywnizmu5ymm2yzfhndnknq==.0&uni=8.326&next=6.64.2.18578",
+      "market_price": "2299",
+      "name": "小米电视a55   55英寸",
+      "price": "1749",
+      "product_desc": "金属全面屏 、双频wifi",
+      "product_desc_origin": "金属全面屏 、双频wifi",
+      "product_id": 18578,
+      "puzzle_url": "https://cdn.cnbj1.fds.api.mi-img.com/nr-pub/202306121143_7dabb222ac345dbe9eeb8663e1550757.png?w=800&h=800",
+      "satisfy_per": "100.0%",
+      "spm_stat": {
+        "scm": "server.0.0.0.product.326.0.0",
+        "spm_code": "category_stmt.product.14",
+        "spm_params": "{\"product_id\":18578}"
+      }
+    },
+    {
+      "cat_id": 0,
+      "comments_total": "19196",
+      "is_multi_price": false,
+      "is_stock": false,
+      "log_code": "bpm=83.250.3881506.7&cdm=0.1.mjawms1naxnob3bsyw5rlxhpyw9tav9jyxrlz29yev9wywdllwv4celkxzgxnzq4ni1lehbjzf8xmjc4ndy4lwv4celkxzewodkymzgtzxhwswrfmtixnzg4mc1lehbjzf8zmzc4ndqtdhjhy2vjzf9intlhntqznwmxzda0mtg3ywnizmu5ymm2yzfhndnknq==.0&uni=8.326&next=6.64.2.14778",
+      "market_price": "4999",
+      "name": "小米电视6 55\" oled 55英寸",
+      "price": "4799",
+      "product_desc": "oled自发光屏 | 百万级对比度 | 4.6mm超薄全面屏",
+      "product_desc_origin": "oled自发光屏 | 百万级对比度 | 4.6mm超薄全面屏",
+      "product_id": 14778,
+      "puzzle_url": "https://cdn.cnbj1.fds.api.mi-img.com/mi-mall/1af4a7d9a926f1e60484ca4940f16d66.png?w=800&h=800",
+      "satisfy_per": "99.9%",
+      "spm_stat": {
+        "scm": "server.0.0.0.product.326.0.0",
+        "spm_code": "category_stmt.product.15",
+        "spm_params": "{\"product_id\":14778}"
+      }
+    },
+    {
+      "cat_id": 0,
+      "comments_total": "",
+      "is_multi_price": false,
+      "is_stock": false,
+      "log_code": "bpm=83.250.3881506.9&cdm=0.1.mjawms1naxnob3bsyw5rlxhpyw9tav9jyxrlz29yev9wywdllwv4celkxzgxnzq4ni1lehbjzf8xmjc4ndy4lwv4celkxzewodkymzgtzxhwswrfmtixnzg4mc1lehbjzf8zmzc4ndqtdhjhy2vjzf9intlhntqznwmxzda0mtg3ywnizmu5ymm2yzfhndnknq==.0&uni=8.326&next=6.64.2.15054",
+      "market_price": "4971",
+      "name": "小米电视 es55（家庭会员版）",
+      "price": "3435",
+      "product_desc": "小米电视",
+      "product_desc_origin": "小米电视",
+      "product_id": 15054,
+      "puzzle_url": "https://cdn.cnbj1.fds.api.mi-img.com/mi-mall/d1da3643ed6ffaea6d68b4a34fe1ac12.png?w=800&h=800",
+      "satisfy_per": "",
+      "spm_stat": {
+        "scm": "server.0.0.0.product.326.0.0",
+        "spm_code": "category_stmt.product.16",
+        "spm_params": "{\"product_id\":15054}"
+      }
+    },
+    {
+      "cat_id": 0,
+      "comments_total": "",
+      "is_multi_price": false,
+      "is_stock": false,
+      "log_code": "bpm=83.250.3881506.8&cdm=0.1.mjawms1naxnob3bsyw5rlxhpyw9tav9jyxrlz29yev9wywdllwv4celkxzgxnzq4ni1lehbjzf8xmjc4ndy4lwv4celkxzewodkymzgtzxhwswrfmtixnzg4mc1lehbjzf8zmzc4ndqtdhjhy2vjzf9intlhntqznwmxzda0mtg3ywnizmu5ymm2yzfhndnknq==.0&uni=8.326&next=6.64.2.14850",
+      "market_price": "3975",
+      "name": "小米电视 es55（影视会员版）",
+      "price": "2967",
+      "product_desc": "会员版,小米电视",
+      "product_desc_origin": "会员版,小米电视",
+      "product_id": 14850,
+      "puzzle_url": "https://cdn.cnbj1.fds.api.mi-img.com/nr-pub/202303302339_c1fcb4d1222e8965906cd5350ace0b85.png?w=800&h=800",
+      "satisfy_per": "",
+      "spm_stat": {
+        "scm": "server.0.0.0.product.326.0.0",
+        "spm_code": "category_stmt.product.17",
+        "spm_params": "{\"product_id\":14850}"
+      }
+    }
+  ],
+  "60-65英寸": [
+    {
+      "cat_id": 0,
+      "comments_total": "12038",
+      "is_multi_price": false,
+      "is_stock": false,
+      "log_code": "bpm=83.250.3881506.10&cdm=0.1.mjawms1naxnob3bsyw5rlxhpyw9tav9jyxrlz29yev9wywdllwv4celkxzgxnzq4ni1lehbjzf8xmjc4ndy4lwv4celkxzewodkymzgtzxhwswrfmtixnzg4mc1lehbjzf8zmzc4ndqtdhjhy2vjzf84mtvkngnlzwnlzwm0nzg5ota4ymm2ztg4mtq1odm1oa==.0&uni=8.324&next=6.64.2.18437",
+      "market_price": "2699",
+      "name": "小米电视a65竞技版   65英寸",
+      "price": "2699",
+      "product_desc": "120hz全面屏，疾速升级",
+      "product_desc_origin": "120hz全面屏，疾速升级",
+      "product_id": 18437,
+      "puzzle_url": "https://cdn.cnbj1.fds.api.mi-img.com/nr-pub/202307241035_725ba5f8346b9440267d45436ee02f7b.png?w=800&h=800",
+      "satisfy_per": "99.6%",
+      "spm_stat": {
+        "scm": "server.0.0.0.product.324.0.0",
+        "spm_code": "category_stmt.product.1",
+        "spm_params": "{\"product_id\":18437}"
+      }
+    },
+    {
+      "cat_id": 0,
+      "comments_total": "22069",
+      "is_multi_price": false,
+      "is_stock": false,
+      "log_code": "bpm=83.250.3881506.13&cdm=0.1.mjawms1naxnob3bsyw5rlxhpyw9tav9jyxrlz29yev9wywdllwv4celkxzgxnzq4ni1lehbjzf8xmjc4ndy4lwv4celkxzewodkymzgtzxhwswrfmtixnzg4mc1lehbjzf8zmzc4ndqtdhjhy2vjzf84mtvkngnlzwnlzwm0nzg5ota4ymm2ztg4mtq1odm1oa==.0&uni=8.324&next=6.64.2.18608",
+      "market_price": "2399",
+      "name": "小米电视 ea65（l65ma-ea）65英寸",
+      "price": "2299",
+      "product_desc": "金属全面屏 | 远场语音 | 双频wifi",
+      "product_desc_origin": "金属全面屏 | 远场语音 | 双频wifi",
+      "product_id": 18608,
+      "puzzle_url": "https://cdn.cnbj1.fds.api.mi-img.com/nr-pub/202306171948_d56fd1156bef4478584821b156dc0be4.png?w=800&h=800",
+      "satisfy_per": "100.0%",
+      "spm_stat": {
+        "scm": "server.0.0.0.product.324.0.0",
+        "spm_code": "category_stmt.product.2",
+        "spm_params": "{\"product_id\":18608}"
+      }
+    },
+    {
+      "cat_id": 0,
+      "comments_total": "4810",
+      "is_multi_price": false,
+      "is_stock": false,
+      "log_code": "bpm=83.250.3881506.15&cdm=0.1.mjawms1naxnob3bsyw5rlxhpyw9tav9jyxrlz29yev9wywdllwv4celkxzgxnzq4ni1lehbjzf8xmjc4ndy4lwv4celkxzewodkymzgtzxhwswrfmtixnzg4mc1lehbjzf8zmzc4ndqtdhjhy2vjzf84mtvkngnlzwnlzwm0nzg5ota4ymm2ztg4mtq1odm1oa==.0&uni=8.324&next=6.64.2.19238",
+      "market_price": "4999",
+      "name": "小米电视 s pro 65 mini led 65英寸",
+      "price": "4299",
+      "product_desc": "144hz超高刷、2200nits峰值亮度、896分区背光",
+      "product_desc_origin": "144hz超高刷、2200nits峰值亮度、896分区背光",
+      "product_id": 19238,
+      "puzzle_url": "https://cdn.cnbj1.fds.api.mi-img.com/nr-pub/202310301447_80d17b888b57f8c4b51e165a5ff8c6bb.png?w=800&h=800",
+      "satisfy_per": "99.8%",
+      "spm_stat": {
+        "scm": "server.0.0.0.product.324.0.0",
+        "spm_code": "category_stmt.product.3",
+        "spm_params": "{\"product_id\":19238}"
+      }
+    },
+    {
+      "cat_id": 0,
+      "comments_total": "350450",
+      "is_multi_price": false,
+      "is_stock": false,
+      "labels": [
+        "赠"
+      ],
+      "log_code": "bpm=83.250.3881506.2&cdm=0.1.mjawms1naxnob3bsyw5rlxhpyw9tav9jyxrlz29yev9wywdllwv4celkxzgxnzq4ni1lehbjzf8xmjc4ndy4lwv4celkxzewodkymzgtzxhwswrfmtixnzg4mc1lehbjzf8zmzc4ndqtdhjhy2vjzf84mtvkngnlzwnlzwm0nzg5ota4ymm2ztg4mtq1odm1oa==.0&uni=8.324&next=6.64.2.14418",
+      "market_price": "3999",
+      "name": "小米电视es65 65英寸 ",
+      "price": "3299",
+      "product_desc": "多分区背光 | memc动态补偿 | 杜比视界",
+      "product_desc_origin": "多分区背光 | memc动态补偿 | 杜比视界",
+      "product_id": 14418,
+      "puzzle_url": "https://cdn.cnbj1.fds.api.mi-img.com/mi-mall/a2cfbf298280d05b2fb3a482ac5d8009.png?w=800&h=800",
+      "satisfy_per": "99.9%",
+      "spm_stat": {
+        "scm": "server.0.0.0.product.324.0.0",
+        "spm_code": "category_stmt.product.4",
+        "spm_params": "{\"product_id\":14418}"
+      }
+    },
+    {
+      "cat_id": 0,
+      "comments_total": "84851",
+      "is_multi_price": false,
+      "is_stock": false,
+      "log_code": "bpm=83.250.3881506.7&cdm=0.1.mjawms1naxnob3bsyw5rlxhpyw9tav9jyxrlz29yev9wywdllwv4celkxzgxnzq4ni1lehbjzf8xmjc4ndy4lwv4celkxzewodkymzgtzxhwswrfmtixnzg4mc1lehbjzf8zmzc4ndqtdhjhy2vjzf84mtvkngnlzwnlzwm0nzg5ota4ymm2ztg4mtq1odm1oa==.0&uni=8.324&next=6.64.2.16288",
+      "market_price": "4599",
+      "name": "小米电视 es pro 65英寸  ",
+      "price": "3799",
+      "product_desc": "多分区背光 |  双120hz高刷 | 700nits峰值亮度",
+      "product_desc_origin": "多分区背光 |  双120hz高刷 | 700nits峰值亮度",
+      "product_id": 16288,
+      "puzzle_url": "https://cdn.cnbj1.fds.api.mi-img.com/nr-pub/202205191448_4a4daa9e55f76c3779aadfdec63d3bea.png?w=800&h=800",
+      "satisfy_per": "99.9%",
+      "spm_stat": {
+        "scm": "server.0.0.0.product.324.0.0",
+        "spm_code": "category_stmt.product.5",
+        "spm_params": "{\"product_id\":16288}"
+      }
+    },
+    {
+      "cat_id": 0,
+      "comments_total": "1986",
+      "is_multi_price": false,
+      "is_stock": false,
+      "log_code": "bpm=83.250.3881506.14&cdm=0.1.mjawms1naxnob3bsyw5rlxhpyw9tav9jyxrlz29yev9wywdllwv4celkxzgxnzq4ni1lehbjzf8xmjc4ndy4lwv4celkxzewodkymzgtzxhwswrfmtixnzg4mc1lehbjzf8zmzc4ndqtdhjhy2vjzf84mtvkngnlzwnlzwm0nzg5ota4ymm2ztg4mtq1odm1oa==.0&uni=8.324&next=6.64.2.18614",
+      "market_price": "2399",
+      "name": "redmi 智能电视 a65 2024款 65英寸",
+      "price": "2199",
+      "product_desc": "4k超高清画质 | 金属全面屏 | 远场语音",
+      "product_desc_origin": "4k超高清画质 | 金属全面屏 | 远场语音",
+      "product_id": 18614,
+      "puzzle_url": "https://cdn.cnbj1.fds.api.mi-img.com/nr-pub/202307061702_e208a612068677523b0a664c87d105b3.jpg?w=800&h=800",
+      "satisfy_per": "99.6%",
+      "spm_stat": {
+        "scm": "server.0.0.0.product.324.0.0",
+        "spm_code": "category_stmt.product.6",
+        "spm_params": "{\"product_id\":18614}"
+      }
+    },
+    {
+      "cat_id": 0,
+      "comments_total": "11184",
+      "is_multi_price": false,
+      "is_stock": false,
+      "log_code": "bpm=83.250.3881506.9&cdm=0.1.mjawms1naxnob3bsyw5rlxhpyw9tav9jyxrlz29yev9wywdllwv4celkxzgxnzq4ni1lehbjzf8xmjc4ndy4lwv4celkxzewodkymzgtzxhwswrfmtixnzg4mc1lehbjzf8zmzc4ndqtdhjhy2vjzf84mtvkngnlzwnlzwm0nzg5ota4ymm2ztg4mtq1odm1oa==.0&uni=8.324&next=6.64.2.18264",
+      "market_price": "3499",
+      "name": "小米电视s65   65英寸 ",
+      "price": "3499",
+      "product_desc": "144hz超高刷  3+32g   多色温色彩还原技术",
+      "product_desc_origin": "144hz超高刷  3+32g   多色温色彩还原技术",
+      "product_id": 18264,
+      "puzzle_url": "https://cdn.cnbj1.fds.api.mi-img.com/nr-pub/202303201156_c95135c31082640c8f42f9a61966b635.png?w=800&h=800",
+      "satisfy_per": "99.8%",
+      "spm_stat": {
+        "scm": "server.0.0.0.product.324.0.0",
+        "spm_code": "category_stmt.product.7",
+        "spm_params": "{\"product_id\":18264}"
+      }
+    },
+    {
+      "cat_id": 0,
+      "comments_total": "4325",
+      "is_multi_price": false,
+      "is_stock": false,
+      "log_code": "bpm=83.250.3881506.8&cdm=0.1.mjawms1naxnob3bsyw5rlxhpyw9tav9jyxrlz29yev9wywdllwv4celkxzgxnzq4ni1lehbjzf8xmjc4ndy4lwv4celkxzewodkymzgtzxhwswrfmtixnzg4mc1lehbjzf8zmzc4ndqtdhjhy2vjzf84mtvkngnlzwnlzwm0nzg5ota4ymm2ztg4mtq1odm1oa==.0&uni=8.324&next=6.64.2.16650",
+      "market_price": "3999",
+      "name": "redmi 智能电视 x pro 65英寸 ",
+      "price": "3299",
+      "product_desc": "硬件级多分区 | 双120hz高刷 | 杜比视界全景声",
+      "product_desc_origin": "硬件级多分区 | 双120hz高刷 | 杜比视界全景声",
+      "product_id": 16650,
+      "puzzle_url": "https://cdn.cnbj1.fds.api.mi-img.com/nr-pub/202210181244_f228a8909373b0b3daaabb45cef37159.jpg?w=800&h=800",
+      "satisfy_per": "99.1%",
+      "spm_stat": {
+        "scm": "server.0.0.0.product.324.0.0",
+        "spm_code": "category_stmt.product.8",
+        "spm_params": "{\"product_id\":16650}"
+      }
+    },
+    {
+      "cat_id": 0,
+      "comments_total": "9005",
+      "is_multi_price": false,
+      "is_stock": false,
+      "log_code": "bpm=83.250.3881506.3&cdm=0.1.mjawms1naxnob3bsyw5rlxhpyw9tav9jyxrlz29yev9wywdllwv4celkxzgxnzq4ni1lehbjzf8xmjc4ndy4lwv4celkxzewodkymzgtzxhwswrfmtixnzg4mc1lehbjzf8zmzc4ndqtdhjhy2vjzf84mtvkngnlzwnlzwm0nzg5ota4ymm2ztg4mtq1odm1oa==.0&uni=8.324&next=6.64.2.14438",
+      "market_price": "7999",
+      "name": "小米电视6至尊版 65英寸 ",
+      "price": "6899",
+      "product_desc": "百级分区背光 | 双120hz高刷 | 4.5gb+64gb",
+      "product_desc_origin": "百级分区背光 | 双120hz高刷 | 4.5gb+64gb",
+      "product_id": 14438,
+      "puzzle_url": "https://cdn.cnbj1.fds.api.mi-img.com/mi-mall/a894dc31e7beecc60e10456237817151.png?w=800&h=800",
+      "satisfy_per": "99.6%",
+      "spm_stat": {
+        "scm": "server.0.0.0.product.324.0.0",
+        "spm_code": "category_stmt.product.9",
+        "spm_params": "{\"product_id\":14438}"
+      }
+    },
+    {
+      "cat_id": 0,
+      "comments_total": "39615",
+      "is_multi_price": false,
+      "is_stock": false,
+      "log_code": "bpm=83.250.3881506.11&cdm=0.1.mjawms1naxnob3bsyw5rlxhpyw9tav9jyxrlz29yev9wywdllwv4celkxzgxnzq4ni1lehbjzf8xmjc4ndy4lwv4celkxzewodkymzgtzxhwswrfmtixnzg4mc1lehbjzf8zmzc4ndqtdhjhy2vjzf84mtvkngnlzwnlzwm0nzg5ota4ymm2ztg4mtq1odm1oa==.0&uni=8.324&next=6.64.2.18460",
+      "market_price": "2999",
+      "name": "小米电视 a pro 65英寸",
+      "price": "2799",
+      "product_desc": "小米电视 a pro 65英寸",
+      "product_desc_origin": "小米电视 a pro 65英寸",
+      "product_id": 18460,
+      "puzzle_url": "https://cdn.cnbj1.fds.api.mi-img.com/nr-pub/202304280954_0bd534514ffd7111b26573c1769fcc34.png?w=800&h=800",
+      "satisfy_per": "99.9%",
+      "spm_stat": {
+        "scm": "server.0.0.0.product.324.0.0",
+        "spm_code": "category_stmt.product.10",
+        "spm_params": "{\"product_id\":18460}"
+      }
+    },
+    {
+      "cat_id": 0,
+      "comments_total": "30",
+      "is_multi_price": false,
+      "is_stock": false,
+      "log_code": "bpm=83.250.3881506.12&cdm=0.1.mjawms1naxnob3bsyw5rlxhpyw9tav9jyxrlz29yev9wywdllwv4celkxzgxnzq4ni1lehbjzf8xmjc4ndy4lwv4celkxzewodkymzgtzxhwswrfmtixnzg4mc1lehbjzf8zmzc4ndqtdhjhy2vjzf84mtvkngnlzwnlzwm0nzg5ota4ymm2ztg4mtq1odm1oa==.0&uni=8.324&next=6.64.2.18565",
+      "market_price": "2999",
+      "name": "小米电视a65  65英寸",
+      "price": "2299",
+      "product_desc": "1、金属全面屏\n2、2+32g超大内存\n3、双频wifi\n4、远场语音",
+      "product_desc_origin": "1、金属全面屏\n2、2+32g超大内存\n3、双频wifi\n4、远场语音",
+      "product_id": 18565,
+      "puzzle_url": "https://cdn.cnbj1.fds.api.mi-img.com/nr-pub/202306021731_d98eb743bc776141cb77789d7466b72a.png?w=800&h=800",
+      "satisfy_per": "100.0%",
+      "spm_stat": {
+        "scm": "server.0.0.0.product.324.0.0",
+        "spm_code": "category_stmt.product.11",
+        "spm_params": "{\"product_id\":18565}"
+      }
+    },
+    {
+      "cat_id": 0,
+      "comments_total": "35192",
+      "is_multi_price": false,
+      "is_stock": false,
+      "log_code": "bpm=83.250.3881506.4&cdm=0.1.mjawms1naxnob3bsyw5rlxhpyw9tav9jyxrlz29yev9wywdllwv4celkxzgxnzq4ni1lehbjzf8xmjc4ndy4lwv4celkxzewodkymzgtzxhwswrfmtixnzg4mc1lehbjzf8zmzc4ndqtdhjhy2vjzf84mtvkngnlzwnlzwm0nzg5ota4ymm2ztg4mtq1odm1oa==.0&uni=8.324&next=6.64.2.14779",
+      "market_price": "6999",
+      "name": "小米电视6 65\" oled 65英寸",
+      "price": "5999",
+      "product_desc": "oled自发光屏 | 百万级对比度 | 4.6mm超薄全面屏",
+      "product_desc_origin": "oled自发光屏 | 百万级对比度 | 4.6mm超薄全面屏",
+      "product_id": 14779,
+      "puzzle_url": "https://cdn.cnbj1.fds.api.mi-img.com/mi-mall/1af4a7d9a926f1e60484ca4940f16d66.png?w=800&h=800",
+      "satisfy_per": "99.9%",
+      "spm_stat": {
+        "scm": "server.0.0.0.product.324.0.0",
+        "spm_code": "category_stmt.product.12",
+        "spm_params": "{\"product_id\":14779}"
+      }
+    },
+    {
+      "cat_id": 0,
+      "comments_total": "",
+      "is_multi_price": false,
+      "is_stock": false,
+      "log_code": "bpm=83.250.3881506.1&cdm=0.1.mjawms1naxnob3bsyw5rlxhpyw9tav9jyxrlz29yev9wywdllwv4celkxzgxnzq4ni1lehbjzf8xmjc4ndy4lwv4celkxzewodkymzgtzxhwswrfmtixnzg4mc1lehbjzf8zmzc4ndqtdhjhy2vjzf84mtvkngnlzwnlzwm0nzg5ota4ymm2ztg4mtq1odm1oa==.0&uni=8.324&next=6.64.2.19375",
+      "market_price": "8998",
+      "name": "小米电视 s pro 65 mini led+电视音响5.1.4",
+      "price": "7498",
+      "product_desc": "144hz超高刷 | 4gb+64gb大存储|2200nits峰值亮度",
+      "product_desc_origin": "144hz超高刷 | 4gb+64gb大存储|2200nits峰值亮度",
+      "product_id": 19375,
+      "puzzle_url": "https://cdn.cnbj1.fds.api.mi-img.com/nr-pub/202310261725_47fa227f91858c720322f63f9a16e695.png?w=800&h=800",
+      "satisfy_per": "",
+      "spm_stat": {
+        "scm": "server.0.0.0.product.324.0.0",
+        "spm_code": "category_stmt.product.13",
+        "spm_params": "{\"product_id\":19375}"
+      }
+    },
+    {
+      "cat_id": 0,
+      "comments_total": "",
+      "is_multi_price": false,
+      "is_stock": false,
+      "log_code": "bpm=83.250.3881506.5&cdm=0.1.mjawms1naxnob3bsyw5rlxhpyw9tav9jyxrlz29yev9wywdllwv4celkxzgxnzq4ni1lehbjzf8xmjc4ndy4lwv4celkxzewodkymzgtzxhwswrfmtixnzg4mc1lehbjzf8zmzc4ndqtdhjhy2vjzf84mtvkngnlzwnlzwm0nzg5ota4ymm2ztg4mtq1odm1oa==.0&uni=8.324&next=6.64.2.15260",
+      "market_price": "4975",
+      "name": "小米电视 es65（影视会员版）",
+      "price": "3967",
+      "product_desc": "多分区背光|memc运动补偿|杜比视界",
+      "product_desc_origin": "多分区背光|memc运动补偿|杜比视界",
+      "product_id": 15260,
+      "puzzle_url": "https://cdn.cnbj1.fds.api.mi-img.com/nr-pub/202303302339_c1fcb4d1222e8965906cd5350ace0b85.png?w=800&h=800",
+      "satisfy_per": "",
+      "spm_stat": {
+        "scm": "server.0.0.0.product.324.0.0",
+        "spm_code": "category_stmt.product.14",
+        "spm_params": "{\"product_id\":15260}"
+      }
+    },
+    {
+      "cat_id": 0,
+      "comments_total": "",
+      "is_multi_price": false,
+      "is_stock": false,
+      "log_code": "bpm=83.250.3881506.6&cdm=0.1.mjawms1naxnob3bsyw5rlxhpyw9tav9jyxrlz29yev9wywdllwv4celkxzgxnzq4ni1lehbjzf8xmjc4ndy4lwv4celkxzewodkymzgtzxhwswrfmtixnzg4mc1lehbjzf8zmzc4ndqtdhjhy2vjzf84mtvkngnlzwnlzwm0nzg5ota4ymm2ztg4mtq1odm1oa==.0&uni=8.324&next=6.64.2.15261",
+      "market_price": "5971",
+      "name": "小米电视 es65（家庭会员版）",
+      "price": "4435",
+      "product_desc": "多分区背光|memc运动补偿|杜比视界",
+      "product_desc_origin": "多分区背光|memc运动补偿|杜比视界",
+      "product_id": 15261,
+      "puzzle_url": "https://cdn.cnbj1.fds.api.mi-img.com/mi-mall/5033c643d3ad4a74f40173a9151b21c3.png?w=800&h=800",
+      "satisfy_per": "",
+      "spm_stat": {
+        "scm": "server.0.0.0.product.324.0.0",
+        "spm_code": "category_stmt.product.15",
+        "spm_params": "{\"product_id\":15261}"
+      }
+    }
+  ],
+  "70-77英寸": [
+    {
+      "cat_id": 0,
+      "comments_total": "8497",
+      "is_multi_price": false,
+      "is_stock": false,
+      "log_code": "bpm=83.250.3881506.15&cdm=0.1.mjawms1naxnob3bsyw5rlxhpyw9tav9jyxrlz29yev9wywdllwv4celkxzgxnzq4ni1lehbjzf8xmjc4ndy4lwv4celkxzewodkymzgtzxhwswrfmtixnzg4mc1lehbjzf8zmzc4ndqtdhjhy2vjzf8xytdhzwm3zwnjmdk0mde4ywi2yzu5yjgwzdu4odk5zg==.0&uni=8.327&next=6.64.2.18491",
+      "market_price": "3799",
+      "name": "小米电视a75竞技版    75英寸",
+      "price": "3799",
+      "product_desc": "120hz全面屏，疾速升级",
+      "product_desc_origin": "120hz全面屏，疾速升级",
+      "product_id": 18491,
+      "puzzle_url": "https://cdn.cnbj1.fds.api.mi-img.com/nr-pub/202307241035_725ba5f8346b9440267d45436ee02f7b.png?w=800&h=800",
+      "satisfy_per": "99.6%",
+      "spm_stat": {
+        "scm": "server.0.0.0.product.327.0.0",
+        "spm_code": "category_stmt.product.1",
+        "spm_params": "{\"product_id\":18491}"
+      }
+    },
+    {
+      "cat_id": 0,
+      "comments_total": "6060",
+      "is_multi_price": false,
+      "is_stock": false,
+      "log_code": "bpm=83.250.3881506.19&cdm=0.1.mjawms1naxnob3bsyw5rlxhpyw9tav9jyxrlz29yev9wywdllwv4celkxzgxnzq4ni1lehbjzf8xmjc4ndy4lwv4celkxzewodkymzgtzxhwswrfmtixnzg4mc1lehbjzf8zmzc4ndqtdhjhy2vjzf8xytdhzwm3zwnjmdk0mde4ywi2yzu5yjgwzdu4odk5zg==.0&uni=8.327&next=6.64.2.18609",
+      "market_price": "2699",
+      "name": "小米电视 ea70（l70ma-ea）70英寸",
+      "price": "2599",
+      "product_desc": "金属全面屏、远场语音、双频wifi",
+      "product_desc_origin": "金属全面屏、远场语音、双频wifi",
+      "product_id": 18609,
+      "puzzle_url": "https://cdn.cnbj1.fds.api.mi-img.com/nr-pub/202306171948_d56fd1156bef4478584821b156dc0be4.png?w=800&h=800",
+      "satisfy_per": "99.9%",
+      "spm_stat": {
+        "scm": "server.0.0.0.product.327.0.0",
+        "spm_code": "category_stmt.product.2",
+        "spm_params": "{\"product_id\":18609}"
+      }
+    },
+    {
+      "cat_id": 0,
+      "comments_total": "17494",
+      "is_multi_price": false,
+      "is_stock": false,
+      "log_code": "bpm=83.250.3881506.1&cdm=0.1.mjawms1naxnob3bsyw5rlxhpyw9tav9jyxrlz29yev9wywdllwv4celkxzgxnzq4ni1lehbjzf8xmjc4ndy4lwv4celkxzewodkymzgtzxhwswrfmtixnzg4mc1lehbjzf8zmzc4ndqtdhjhy2vjzf8xytdhzwm3zwnjmdk0mde4ywi2yzu5yjgwzdu4odk5zg==.0&uni=8.327&next=6.64.2.18610",
+      "market_price": "3399",
+      "name": "小米电视 ea75（l75ma-ea）75英寸",
+      "price": "3099",
+      "product_desc": "金属全面屏 | 远场语音 | 双频wifi",
+      "product_desc_origin": "金属全面屏 | 远场语音 | 双频wifi",
+      "product_id": 18610,
+      "puzzle_url": "https://cdn.cnbj1.fds.api.mi-img.com/nr-pub/202306171948_d56fd1156bef4478584821b156dc0be4.png?w=800&h=800",
+      "satisfy_per": "99.9%",
+      "spm_stat": {
+        "scm": "server.0.0.0.product.327.0.0",
+        "spm_code": "category_stmt.product.3",
+        "spm_params": "{\"product_id\":18610}"
+      }
+    },
+    {
+      "cat_id": 0,
+      "comments_total": "5041",
+      "is_multi_price": false,
+      "is_stock": false,
+      "log_code": "bpm=83.250.3881506.4&cdm=0.1.mjawms1naxnob3bsyw5rlxhpyw9tav9jyxrlz29yev9wywdllwv4celkxzgxnzq4ni1lehbjzf8xmjc4ndy4lwv4celkxzewodkymzgtzxhwswrfmtixnzg4mc1lehbjzf8zmzc4ndqtdhjhy2vjzf8xytdhzwm3zwnjmdk0mde4ywi2yzu5yjgwzdu4odk5zg==.0&uni=8.327&next=6.64.2.19239",
+      "market_price": "6999",
+      "name": "小米电视 s pro 75 mini led 75英寸",
+      "price": "5999",
+      "product_desc": "144hz超高刷、2200nits峰值亮度、1152分区背光",
+      "product_desc_origin": "144hz超高刷、2200nits峰值亮度、1152分区背光",
+      "product_id": 19239,
+      "puzzle_url": "https://cdn.cnbj1.fds.api.mi-img.com/nr-pub/202310301447_80d17b888b57f8c4b51e165a5ff8c6bb.png?w=800&h=800",
+      "satisfy_per": "99.9%",
+      "spm_stat": {
+        "scm": "server.0.0.0.product.327.0.0",
+        "spm_code": "category_stmt.product.4",
+        "spm_params": "{\"product_id\":19239}"
+      }
+    },
+    {
+      "cat_id": 0,
+      "comments_total": "13068",
+      "is_multi_price": false,
+      "is_stock": false,
+      "log_code": "bpm=83.250.3881506.14&cdm=0.1.mjawms1naxnob3bsyw5rlxhpyw9tav9jyxrlz29yev9wywdllwv4celkxzgxnzq4ni1lehbjzf8xmjc4ndy4lwv4celkxzewodkymzgtzxhwswrfmtixnzg4mc1lehbjzf8zmzc4ndqtdhjhy2vjzf8xytdhzwm3zwnjmdk0mde4ywi2yzu5yjgwzdu4odk5zg==.0&uni=8.327&next=6.64.2.18265",
+      "market_price": "4499",
+      "name": "小米电视s75   75英寸 ",
+      "price": "4499",
+      "product_desc": "144hz超高刷  3+32g   多色温色彩还原技术",
+      "product_desc_origin": "144hz超高刷  3+32g   多色温色彩还原技术",
+      "product_id": 18265,
+      "puzzle_url": "https://cdn.cnbj1.fds.api.mi-img.com/nr-pub/202303201156_c95135c31082640c8f42f9a61966b635.png?w=800&h=800",
+      "satisfy_per": "99.7%",
+      "spm_stat": {
+        "scm": "server.0.0.0.product.327.0.0",
+        "spm_code": "category_stmt.product.5",
+        "spm_params": "{\"product_id\":18265}"
+      }
+    },
+    {
+      "cat_id": 0,
+      "comments_total": "3326",
+      "is_multi_price": false,
+      "is_stock": false,
+      "log_code": "bpm=83.250.3881506.12&cdm=0.1.mjawms1naxnob3bsyw5rlxhpyw9tav9jyxrlz29yev9wywdllwv4celkxzgxnzq4ni1lehbjzf8xmjc4ndy4lwv4celkxzewodkymzgtzxhwswrfmtixnzg4mc1lehbjzf8zmzc4ndqtdhjhy2vjzf8xytdhzwm3zwnjmdk0mde4ywi2yzu5yjgwzdu4odk5zg==.0&uni=8.327&next=6.64.2.16651",
+      "market_price": "4999",
+      "name": "redmi 智能电视 x pro 75英寸 ",
+      "price": "4499",
+      "product_desc": "硬件级多分区 | 双120hz高刷 | 杜比视界全景声",
+      "product_desc_origin": "硬件级多分区 | 双120hz高刷 | 杜比视界全景声",
+      "product_id": 16651,
+      "puzzle_url": "https://cdn.cnbj1.fds.api.mi-img.com/nr-pub/202210181435_781dbf16f8f3b640d2d13afd9b98425d.jpg?w=800&h=800",
+      "satisfy_per": "99.0%",
+      "spm_stat": {
+        "scm": "server.0.0.0.product.327.0.0",
+        "spm_code": "category_stmt.product.6",
+        "spm_params": "{\"product_id\":16651}"
+      }
+    },
+    {
+      "cat_id": 0,
+      "comments_total": "159790",
+      "is_multi_price": false,
+      "is_stock": false,
+      "labels": [
+        "赠"
+      ],
+      "log_code": "bpm=83.250.3881506.3&cdm=0.1.mjawms1naxnob3bsyw5rlxhpyw9tav9jyxrlz29yev9wywdllwv4celkxzgxnzq4ni1lehbjzf8xmjc4ndy4lwv4celkxzewodkymzgtzxhwswrfmtixnzg4mc1lehbjzf8zmzc4ndqtdhjhy2vjzf8xytdhzwm3zwnjmdk0mde4ywi2yzu5yjgwzdu4odk5zg==.0&uni=8.327&next=6.64.2.14419",
+      "market_price": "5999",
+      "name": "小米电视es75 75英寸 ",
+      "price": "4499",
+      "product_desc": "多分区背光 | memc动态补偿 | 杜比视界",
+      "product_desc_origin": "多分区背光 | memc动态补偿 | 杜比视界",
+      "product_id": 14419,
+      "puzzle_url": "https://cdn.cnbj1.fds.api.mi-img.com/mi-mall/a2cfbf298280d05b2fb3a482ac5d8009.png?w=800&h=800",
+      "satisfy_per": "99.9%",
+      "spm_stat": {
+        "scm": "server.0.0.0.product.327.0.0",
+        "spm_code": "category_stmt.product.7",
+        "spm_params": "{\"product_id\":14419}"
+      }
+    },
+    {
+      "cat_id": 0,
+      "comments_total": "51434",
+      "is_multi_price": false,
+      "is_stock": false,
+      "log_code": "bpm=83.250.3881506.11&cdm=0.1.mjawms1naxnob3bsyw5rlxhpyw9tav9jyxrlz29yev9wywdllwv4celkxzgxnzq4ni1lehbjzf8xmjc4ndy4lwv4celkxzewodkymzgtzxhwswrfmtixnzg4mc1lehbjzf8zmzc4ndqtdhjhy2vjzf8xytdhzwm3zwnjmdk0mde4ywi2yzu5yjgwzdu4odk5zg==.0&uni=8.327&next=6.64.2.16289",
+      "market_price": "6499",
+      "name": "小米电视 es pro 75英寸  ",
+      "price": "5899",
+      "product_desc": "多分区背光 |  双120hz高刷 | 700nits峰值亮度",
+      "product_desc_origin": "多分区背光 |  双120hz高刷 | 700nits峰值亮度",
+      "product_id": 16289,
+      "puzzle_url": "https://cdn.cnbj1.fds.api.mi-img.com/nr-pub/202205191448_4a4daa9e55f76c3779aadfdec63d3bea.png?w=800&h=800",
+      "satisfy_per": "99.9%",
+      "spm_stat": {
+        "scm": "server.0.0.0.product.327.0.0",
+        "spm_code": "category_stmt.product.8",
+        "spm_params": "{\"product_id\":16289}"
+      }
+    },
+    {
+      "cat_id": 0,
+      "comments_total": "761",
+      "is_multi_price": false,
+      "is_stock": false,
+      "log_code": "bpm=83.250.3881506.2&cdm=0.1.mjawms1naxnob3bsyw5rlxhpyw9tav9jyxrlz29yev9wywdllwv4celkxzgxnzq4ni1lehbjzf8xmjc4ndy4lwv4celkxzewodkymzgtzxhwswrfmtixnzg4mc1lehbjzf8zmzc4ndqtdhjhy2vjzf8xytdhzwm3zwnjmdk0mde4ywi2yzu5yjgwzdu4odk5zg==.0&uni=8.327&next=6.64.2.18643",
+      "market_price": "2599",
+      "name": "redmi 智能电视 a70 2024款 70英寸",
+      "price": "2499",
+      "product_desc": "4k超高清画质 | 金属全面屏 | 远场语音",
+      "product_desc_origin": "4k超高清画质 | 金属全面屏 | 远场语音",
+      "product_id": 18643,
+      "puzzle_url": "https://cdn.cnbj1.fds.api.mi-img.com/nr-pub/202307181553_0a4ca70883b2a1afb9fc1a8cf539bb24.png?w=800&h=800",
+      "satisfy_per": "99.5%",
+      "spm_stat": {
+        "scm": "server.0.0.0.product.327.0.0",
+        "spm_code": "category_stmt.product.9",
+        "spm_params": "{\"product_id\":18643}"
+      }
+    },
+    {
+      "cat_id": 0,
+      "comments_total": "522",
+      "is_multi_price": false,
+      "is_stock": false,
+      "log_code": "bpm=83.250.3881506.6&cdm=0.1.mjawms1naxnob3bsyw5rlxhpyw9tav9jyxrlz29yev9wywdllwv4celkxzgxnzq4ni1lehbjzf8xmjc4ndy4lwv4celkxzewodkymzgtzxhwswrfmtixnzg4mc1lehbjzf8zmzc4ndqtdhjhy2vjzf8xytdhzwm3zwnjmdk0mde4ywi2yzu5yjgwzdu4odk5zg==.0&uni=8.327&next=6.64.2.19282",
+      "market_price": "3599",
+      "name": "redmi 智能电视 a75 2024款 75英寸",
+      "price": "3099",
+      "product_desc": "120hz竞技模式 | 2gb+32gb | 远场语音",
+      "product_desc_origin": "120hz竞技模式 | 2gb+32gb | 远场语音",
+      "product_id": 19282,
+      "puzzle_url": "https://cdn.cnbj1.fds.api.mi-img.com/nr-pub/202310241059_9acc6ce70ad5be449421b448b4b5370c.jpg?w=800&h=800",
+      "satisfy_per": "100.0%",
+      "spm_stat": {
+        "scm": "server.0.0.0.product.327.0.0",
+        "spm_code": "category_stmt.product.10",
+        "spm_params": "{\"product_id\":19282}"
+      }
+    },
+    {
+      "cat_id": 0,
+      "comments_total": "13330",
+      "is_multi_price": false,
+      "is_stock": false,
+      "labels": [
+        "赠"
+      ],
+      "log_code": "bpm=83.250.3881506.13&cdm=0.1.mjawms1naxnob3bsyw5rlxhpyw9tav9jyxrlz29yev9wywdllwv4celkxzgxnzq4ni1lehbjzf8xmjc4ndy4lwv4celkxzewodkymzgtzxhwswrfmtixnzg4mc1lehbjzf8zmzc4ndqtdhjhy2vjzf8xytdhzwm3zwnjmdk0mde4ywi2yzu5yjgwzdu4odk5zg==.0&uni=8.327&next=6.64.2.16672",
+      "market_price": "4499",
+      "name": "小米电视 es70 70英寸",
+      "price": "3799",
+      "product_desc": "多分区背光 | 杜比视界 | memc动态补偿",
+      "product_desc_origin": "多分区背光 | 杜比视界 | memc动态补偿",
+      "product_id": 16672,
+      "puzzle_url": "https://cdn.cnbj1.fds.api.mi-img.com/nr-pub/202210192131_ac9020a4a9f1e08cd36558241925fc42.jpg?w=800&h=800",
+      "satisfy_per": "99.9%",
+      "spm_stat": {
+        "scm": "server.0.0.0.product.327.0.0",
+        "spm_code": "category_stmt.product.11",
+        "spm_params": "{\"product_id\":16672}"
+      }
+    },
+    {
+      "cat_id": 0,
+      "comments_total": "20831",
+      "is_multi_price": false,
+      "is_stock": false,
+      "log_code": "bpm=83.250.3881506.16&cdm=0.1.mjawms1naxnob3bsyw5rlxhpyw9tav9jyxrlz29yev9wywdllwv4celkxzgxnzq4ni1lehbjzf8xmjc4ndy4lwv4celkxzewodkymzgtzxhwswrfmtixnzg4mc1lehbjzf8zmzc4ndqtdhjhy2vjzf8xytdhzwm3zwnjmdk0mde4ywi2yzu5yjgwzdu4odk5zg==.0&uni=8.327&next=6.64.2.18497",
+      "market_price": "3999",
+      "name": "小米电视 a pro 75英寸",
+      "price": "3899",
+      "product_desc": "120hz竞技模式、400nits峰值亮度、2gb+32gb大存储",
+      "product_desc_origin": "120hz竞技模式、400nits峰值亮度、2gb+32gb大存储",
+      "product_id": 18497,
+      "puzzle_url": "https://cdn.cnbj1.fds.api.mi-img.com/nr-pub/202304280954_0bd534514ffd7111b26573c1769fcc34.png?w=800&h=800",
+      "satisfy_per": "99.9%",
+      "spm_stat": {
+        "scm": "server.0.0.0.product.327.0.0",
+        "spm_code": "category_stmt.product.12",
+        "spm_params": "{\"product_id\":18497}"
+      }
+    },
+    {
+      "cat_id": 0,
+      "comments_total": "5339",
+      "is_multi_price": false,
+      "is_stock": false,
+      "log_code": "bpm=83.250.3881506.7&cdm=0.1.mjawms1naxnob3bsyw5rlxhpyw9tav9jyxrlz29yev9wywdllwv4celkxzgxnzq4ni1lehbjzf8xmjc4ndy4lwv4celkxzewodkymzgtzxhwswrfmtixnzg4mc1lehbjzf8zmzc4ndqtdhjhy2vjzf8xytdhzwm3zwnjmdk0mde4ywi2yzu5yjgwzdu4odk5zg==.0&uni=8.327&next=6.64.2.14781",
+      "market_price": "19999",
+      "name": "小米电视 大师 77\" oled 77英寸",
+      "price": "17999",
+      "product_desc": "全新一代oled屏 | 百万级对比度 | 双120hz高刷",
+      "product_desc_origin": "全新一代oled屏 | 百万级对比度 | 双120hz高刷",
+      "product_id": 14781,
+      "puzzle_url": "https://cdn.cnbj1.fds.api.mi-img.com/mi-mall/83a766405e4afbfba5d7e3e5e698e01b.png?w=800&h=800",
+      "satisfy_per": "99.8%",
+      "spm_stat": {
+        "scm": "server.0.0.0.product.327.0.0",
+        "spm_code": "category_stmt.product.13",
+        "spm_params": "{\"product_id\":14781}"
+      }
+    },
+    {
+      "cat_id": 0,
+      "comments_total": "16",
+      "is_multi_price": false,
+      "is_stock": false,
+      "log_code": "bpm=83.250.3881506.17&cdm=0.1.mjawms1naxnob3bsyw5rlxhpyw9tav9jyxrlz29yev9wywdllwv4celkxzgxnzq4ni1lehbjzf8xmjc4ndy4lwv4celkxzewodkymzgtzxhwswrfmtixnzg4mc1lehbjzf8zmzc4ndqtdhjhy2vjzf8xytdhzwm3zwnjmdk0mde4ywi2yzu5yjgwzdu4odk5zg==.0&uni=8.327&next=6.64.2.18567",
+      "market_price": "4199",
+      "name": "小米电视a75   75英寸",
+      "price": "3099",
+      "product_desc": "小米电视a75   75英寸",
+      "product_desc_origin": "小米电视a75   75英寸",
+      "product_id": 18567,
+      "puzzle_url": "https://cdn.cnbj1.fds.api.mi-img.com/nr-pub/202306021731_d98eb743bc776141cb77789d7466b72a.png?w=800&h=800",
+      "satisfy_per": "100.0%",
+      "spm_stat": {
+        "scm": "server.0.0.0.product.327.0.0",
+        "spm_code": "category_stmt.product.14",
+        "spm_params": "{\"product_id\":18567}"
+      }
+    },
+    {
+      "cat_id": 0,
+      "comments_total": "11",
+      "is_multi_price": false,
+      "is_stock": false,
+      "log_code": "bpm=83.250.3881506.18&cdm=0.1.mjawms1naxnob3bsyw5rlxhpyw9tav9jyxrlz29yev9wywdllwv4celkxzgxnzq4ni1lehbjzf8xmjc4ndy4lwv4celkxzewodkymzgtzxhwswrfmtixnzg4mc1lehbjzf8zmzc4ndqtdhjhy2vjzf8xytdhzwm3zwnjmdk0mde4ywi2yzu5yjgwzdu4odk5zg==.0&uni=8.327&next=6.64.2.18579",
+      "market_price": "3399",
+      "name": "小米电视a70  70英寸",
+      "price": "2799",
+      "product_desc": "小米电视a70  70英寸",
+      "product_desc_origin": "小米电视a70  70英寸",
+      "product_id": 18579,
+      "puzzle_url": "https://cdn.cnbj1.fds.api.mi-img.com/nr-pub/202306121143_7dabb222ac345dbe9eeb8663e1550757.png?w=800&h=800",
+      "satisfy_per": "100.0%",
+      "spm_stat": {
+        "scm": "server.0.0.0.product.327.0.0",
+        "spm_code": "category_stmt.product.15",
+        "spm_params": "{\"product_id\":18579}"
+      }
+    },
+    {
+      "cat_id": 0,
+      "comments_total": "12928",
+      "is_multi_price": false,
+      "is_stock": false,
+      "log_code": "bpm=83.250.3881506.5&cdm=0.1.mjawms1naxnob3bsyw5rlxhpyw9tav9jyxrlz29yev9wywdllwv4celkxzgxnzq4ni1lehbjzf8xmjc4ndy4lwv4celkxzewodkymzgtzxhwswrfmtixnzg4mc1lehbjzf8zmzc4ndqtdhjhy2vjzf8xytdhzwm3zwnjmdk0mde4ywi2yzu5yjgwzdu4odk5zg==.0&uni=8.327&next=6.64.2.14439",
+      "market_price": "9999",
+      "name": "小米电视6至尊版 75英寸 ",
+      "price": "9699",
+      "product_desc": "百级分区背光 | 双120hz高刷 | 4.5gb+64gb",
+      "product_desc_origin": "百级分区背光 | 双120hz高刷 | 4.5gb+64gb",
+      "product_id": 14439,
+      "puzzle_url": "https://cdn.cnbj1.fds.api.mi-img.com/mi-mall/c5896f5e705f9e3fd8616f8118c5df25.png?w=800&h=800",
+      "satisfy_per": "99.7%",
+      "spm_stat": {
+        "scm": "server.0.0.0.product.327.0.0",
+        "spm_code": "category_stmt.product.16",
+        "spm_params": "{\"product_id\":14439}"
+      }
+    },
+    {
+      "cat_id": 0,
+      "comments_total": "",
+      "is_multi_price": false,
+      "is_stock": false,
+      "log_code": "bpm=83.250.3881506.8&cdm=0.1.mjawms1naxnob3bsyw5rlxhpyw9tav9jyxrlz29yev9wywdllwv4celkxzgxnzq4ni1lehbjzf8xmjc4ndy4lwv4celkxzewodkymzgtzxhwswrfmtixnzg4mc1lehbjzf8zmzc4ndqtdhjhy2vjzf8xytdhzwm3zwnjmdk0mde4ywi2yzu5yjgwzdu4odk5zg==.0&uni=8.327&next=6.64.2.19376",
+      "market_price": "10998",
+      "name": "小米电视 s pro 75 mini led+电视音响5.1.4",
+      "price": "9498",
+      "product_desc": "144hz超高刷 | 4gb+64gb大存储|2200nits峰值亮度",
+      "product_desc_origin": "144hz超高刷 | 4gb+64gb大存储|2200nits峰值亮度",
+      "product_id": 19376,
+      "puzzle_url": "https://cdn.cnbj1.fds.api.mi-img.com/nr-pub/202310261725_47fa227f91858c720322f63f9a16e695.png?w=800&h=800",
+      "satisfy_per": "",
+      "spm_stat": {
+        "scm": "server.0.0.0.product.327.0.0",
+        "spm_code": "category_stmt.product.17",
+        "spm_params": "{\"product_id\":19376}"
+      }
+    },
+    {
+      "cat_id": 0,
+      "comments_total": "",
+      "is_multi_price": false,
+      "is_stock": false,
+      "log_code": "bpm=83.250.3881506.10&cdm=0.1.mjawms1naxnob3bsyw5rlxhpyw9tav9jyxrlz29yev9wywdllwv4celkxzgxnzq4ni1lehbjzf8xmjc4ndy4lwv4celkxzewodkymzgtzxhwswrfmtixnzg4mc1lehbjzf8zmzc4ndqtdhjhy2vjzf8xytdhzwm3zwnjmdk0mde4ywi2yzu5yjgwzdu4odk5zg==.0&uni=8.327&next=6.64.2.15263",
+      "market_price": "7971",
+      "name": "小米电视 es75（家庭会员版）",
+      "price": "5535",
+      "product_desc": "小米电视",
+      "product_desc_origin": "小米电视",
+      "product_id": 15263,
+      "puzzle_url": "https://cdn.cnbj1.fds.api.mi-img.com/mi-mall/535f565a833d9d0a198d3ec9ecae3779.png?w=800&h=800",
+      "satisfy_per": "",
+      "spm_stat": {
+        "scm": "server.0.0.0.product.327.0.0",
+        "spm_code": "category_stmt.product.18",
+        "spm_params": "{\"product_id\":15263}"
+      }
+    },
+    {
+      "cat_id": 0,
+      "comments_total": "",
+      "is_multi_price": false,
+      "is_stock": false,
+      "log_code": "bpm=83.250.3881506.9&cdm=0.1.mjawms1naxnob3bsyw5rlxhpyw9tav9jyxrlz29yev9wywdllwv4celkxzgxnzq4ni1lehbjzf8xmjc4ndy4lwv4celkxzewodkymzgtzxhwswrfmtixnzg4mc1lehbjzf8zmzc4ndqtdhjhy2vjzf8xytdhzwm3zwnjmdk0mde4ywi2yzu5yjgwzdu4odk5zg==.0&uni=8.327&next=6.64.2.15262",
+      "market_price": "6975",
+      "name": "小米电视 es75（影视会员版）",
+      "price": "5067",
+      "product_desc": "小米电视",
+      "product_desc_origin": "小米电视",
+      "product_id": 15262,
+      "puzzle_url": "https://cdn.cnbj1.fds.api.mi-img.com/nr-pub/202303302339_c1fcb4d1222e8965906cd5350ace0b85.png?w=800&h=800",
+      "satisfy_per": "",
+      "spm_stat": {
+        "scm": "server.0.0.0.product.327.0.0",
+        "spm_code": "category_stmt.product.19",
+        "spm_params": "{\"product_id\":15262}"
+      }
+    }
+  ],
+  "82-100英寸": [
+    {
+      "cat_id": 0,
+      "comments_total": "2015",
+      "is_multi_price": false,
+      "is_stock": false,
+      "log_code": "bpm=83.250.3881506.15&cdm=0.1.mjawms1naxnob3bsyw5rlxhpyw9tav9jyxrlz29yev9wywdllwv4celkxzgxnzq4ni1lehbjzf8xmjc4ndy4lwv4celkxzewodkymzgtzxhwswrfmtixnzg4mc1lehbjzf8zmzc4ndqtdhjhy2vjzf9lode3otc3ywu5otu0nzizyjkzmddlndhmzda3oty0ng==.0&uni=8.834&next=6.64.2.19340",
+      "market_price": "9999",
+      "name": "小米电视 s pro 85 mini led 85英寸",
+      "price": "7999",
+      "product_desc": "mini led显示技术 | 1440背光分区 | 2400nits峰值亮度",
+      "product_desc_origin": "mini led显示技术 | 1440背光分区 | 2400nits峰值亮度",
+      "product_id": 19340,
+      "puzzle_url": "https://cdn.cnbj1.fds.api.mi-img.com/nr-pub/202310301837_086a234cdcc9234c236b1b744ab2df68.jpg?w=800&h=800",
+      "satisfy_per": "99.8%",
+      "spm_stat": {
+        "scm": "server.0.0.0.product.834.0.0",
+        "spm_code": "category_stmt.product.1",
+        "spm_params": "{\"product_id\":19340}"
+      }
+    },
+    {
+      "cat_id": 0,
+      "comments_total": "4034",
+      "is_multi_price": false,
+      "is_stock": false,
+      "log_code": "bpm=83.250.3881506.9&cdm=0.1.mjawms1naxnob3bsyw5rlxhpyw9tav9jyxrlz29yev9wywdllwv4celkxzgxnzq4ni1lehbjzf8xmjc4ndy4lwv4celkxzewodkymzgtzxhwswrfmtixnzg4mc1lehbjzf8zmzc4ndqtdhjhy2vjzf9lode3otc3ywu5otu0nzizyjkzmddlndhmzda3oty0ng==.0&uni=8.834&next=6.64.2.18416",
+      "market_price": "4999",
+      "name": "redmi 智能电视 x85英寸",
+      "price": "4699",
+      "product_desc": "120hz刷新率|3gb+32gb|远场语音",
+      "product_desc_origin": "120hz刷新率|3gb+32gb|远场语音",
+      "product_id": 18416,
+      "puzzle_url": "https://cdn.cnbj1.fds.api.mi-img.com/nr-pub/202304191058_96bbb74e669a80b0beb2cd78585dcd07.png?w=800&h=800",
+      "satisfy_per": "99.3%",
+      "spm_stat": {
+        "scm": "server.0.0.0.product.834.0.0",
+        "spm_code": "category_stmt.product.2",
+        "spm_params": "{\"product_id\":18416}"
+      }
+    },
+    {
+      "cat_id": 0,
+      "comments_total": "87327",
+      "is_multi_price": false,
+      "is_stock": false,
+      "log_code": "bpm=83.250.3881506.1&cdm=0.1.mjawms1naxnob3bsyw5rlxhpyw9tav9jyxrlz29yev9wywdllwv4celkxzgxnzq4ni1lehbjzf8xmjc4ndy4lwv4celkxzewodkymzgtzxhwswrfmtixnzg4mc1lehbjzf8zmzc4ndqtdhjhy2vjzf9lode3otc3ywu5otu0nzizyjkzmddlndhmzda3oty0ng==.0&uni=8.834&next=6.64.2.13498",
+      "market_price": "7999",
+      "name": "redmi max 86英寸",
+      "price": "5599",
+      "product_desc": "多分区背光 | 双120hz高刷 | hdmi 2.1接口",
+      "product_desc_origin": "多分区背光 | 双120hz高刷 | hdmi 2.1接口",
+      "product_id": 13498,
+      "puzzle_url": "https://cdn.cnbj1.fds.api.mi-img.com/mi-mall/973b9a48218579d88fcc07272bc3f847.png?w=800&h=800",
+      "satisfy_per": "99.8%",
+      "spm_stat": {
+        "scm": "server.0.0.0.product.834.0.0",
+        "spm_code": "category_stmt.product.3",
+        "spm_params": "{\"product_id\":13498}"
+      }
+    },
+    {
+      "cat_id": 0,
+      "comments_total": "6844",
+      "is_multi_price": false,
+      "is_stock": false,
+      "log_code": "bpm=83.250.3881506.12&cdm=0.1.mjawms1naxnob3bsyw5rlxhpyw9tav9jyxrlz29yev9wywdllwv4celkxzgxnzq4ni1lehbjzf8xmjc4ndy4lwv4celkxzewodkymzgtzxhwswrfmtixnzg4mc1lehbjzf8zmzc4ndqtdhjhy2vjzf9lode3otc3ywu5otu0nzizyjkzmddlndhmzda3oty0ng==.0&uni=8.834&next=6.64.2.18488",
+      "market_price": "6999",
+      "name": "小米电视s85 85英寸",
+      "price": "6999",
+      "product_desc": "144hz超高刷  3+32g   多色温色彩还原技术",
+      "product_desc_origin": "144hz超高刷  3+32g   多色温色彩还原技术",
+      "product_id": 18488,
+      "puzzle_url": "https://cdn.cnbj1.fds.api.mi-img.com/nr-pub/202303201156_c95135c31082640c8f42f9a61966b635.png?w=800&h=800",
+      "satisfy_per": "99.9%",
+      "spm_stat": {
+        "scm": "server.0.0.0.product.834.0.0",
+        "spm_code": "category_stmt.product.4",
+        "spm_params": "{\"product_id\":18488}"
+      }
+    },
+    {
+      "cat_id": 0,
+      "comments_total": "73340",
+      "is_multi_price": false,
+      "is_stock": false,
+      "log_code": "bpm=83.250.3881506.5&cdm=0.1.mjawms1naxnob3bsyw5rlxhpyw9tav9jyxrlz29yev9wywdllwv4celkxzgxnzq4ni1lehbjzf8xmjc4ndy4lwv4celkxzewodkymzgtzxhwswrfmtixnzg4mc1lehbjzf8zmzc4ndqtdhjhy2vjzf9lode3otc3ywu5otu0nzizyjkzmddlndhmzda3oty0ng==.0&uni=8.834&next=6.64.2.16593",
+      "market_price": "8499",
+      "name": "小米电视 es pro 86英寸  ",
+      "price": "7399",
+      "product_desc": "百级分区背光 | 双120hz高刷 | 1000nits峰值亮度",
+      "product_desc_origin": "百级分区背光 | 双120hz高刷 | 1000nits峰值亮度",
+      "product_id": 16593,
+      "puzzle_url": "https://cdn.cnbj1.fds.api.mi-img.com/nr-pub/202205191448_4a4daa9e55f76c3779aadfdec63d3bea.png?w=800&h=800",
+      "satisfy_per": "99.9%",
+      "spm_stat": {
+        "scm": "server.0.0.0.product.834.0.0",
+        "spm_code": "category_stmt.product.5",
+        "spm_params": "{\"product_id\":16593}"
+      }
+    },
+    {
+      "cat_id": 0,
+      "comments_total": "18285",
+      "is_multi_price": false,
+      "is_stock": false,
+      "labels": [
+        "赠"
+      ],
+      "log_code": "bpm=83.250.3881506.4&cdm=0.1.mjawms1naxnob3bsyw5rlxhpyw9tav9jyxrlz29yev9wywdllwv4celkxzgxnzq4ni1lehbjzf8xmjc4ndy4lwv4celkxzewodkymzgtzxhwswrfmtixnzg4mc1lehbjzf8zmzc4ndqtdhjhy2vjzf9lode3otc3ywu5otu0nzizyjkzmddlndhmzda3oty0ng==.0&uni=8.834&next=6.64.2.15734",
+      "market_price": "19999",
+      "name": "redmi max 100\" 巨屏电视",
+      "price": "12999",
+      "product_desc": "384分区背光 | 144hz超高刷 | 远场语音",
+      "product_desc_origin": "384分区背光 | 144hz超高刷 | 远场语音",
+      "product_id": 15734,
+      "puzzle_url": "https://cdn.cnbj1.fds.api.mi-img.com/mi-mall/a41d2c0c8e7c5248e7ee65f1eadf28a6.png?w=800&h=800",
+      "satisfy_per": "100.0%",
+      "spm_stat": {
+        "scm": "server.0.0.0.product.834.0.0",
+        "spm_code": "category_stmt.product.6",
+        "spm_params": "{\"product_id\":15734}"
+      }
+    },
+    {
+      "cat_id": 0,
+      "comments_total": "1681",
+      "is_multi_price": false,
+      "is_stock": false,
+      "log_code": "bpm=83.250.3881506.13&cdm=0.1.mjawms1naxnob3bsyw5rlxhpyw9tav9jyxrlz29yev9wywdllwv4celkxzgxnzq4ni1lehbjzf8xmjc4ndy4lwv4celkxzewodkymzgtzxhwswrfmtixnzg4mc1lehbjzf8zmzc4ndqtdhjhy2vjzf9lode3otc3ywu5otu0nzizyjkzmddlndhmzda3oty0ng==.0&uni=8.834&next=6.64.2.18650",
+      "market_price": "19999",
+      "name": "小米电视s pro 100英寸",
+      "price": "15999",
+      "product_desc": "1000nits峰值亮度丨144hz超高刷丨384分区",
+      "product_desc_origin": "1000nits峰值亮度丨144hz超高刷丨384分区",
+      "product_id": 18650,
+      "puzzle_url": "https://cdn.cnbj1.fds.api.mi-img.com/nr-pub/202308091110_18fea3ddb6c8e7c02fbe81e402b81604.png?w=800&h=800",
+      "satisfy_per": "100.0%",
+      "spm_stat": {
+        "scm": "server.0.0.0.product.834.0.0",
+        "spm_code": "category_stmt.product.7",
+        "spm_params": "{\"product_id\":18650}"
+      }
+    },
+    {
+      "cat_id": 0,
+      "comments_total": "47323",
+      "is_multi_price": false,
+      "is_stock": false,
+      "log_code": "bpm=83.250.3881506.2&cdm=0.1.mjawms1naxnob3bsyw5rlxhpyw9tav9jyxrlz29yev9wywdllwv4celkxzgxnzq4ni1lehbjzf8xmjc4ndy4lwv4celkxzewodkymzgtzxhwswrfmtixnzg4mc1lehbjzf8zmzc4ndqtdhjhy2vjzf9lode3otc3ywu5otu0nzizyjkzmddlndhmzda3oty0ng==.0&uni=8.834&next=6.64.2.11814",
+      "market_price": "17999",
+      "name": "redmi max 98英寸",
+      "price": "9999",
+      "product_desc": "120hz高刷新率 | 4gb+64gb | memc运动补偿",
+      "product_desc_origin": "120hz高刷新率 | 4gb+64gb | memc运动补偿",
+      "product_id": 11814,
+      "puzzle_url": "https://cdn.cnbj1.fds.api.mi-img.com/mi-mall/0c4e0d46ac86ab75bad0c48989cb4a11.png?w=800&h=800",
+      "satisfy_per": "99.9%",
+      "spm_stat": {
+        "scm": "server.0.0.0.product.834.0.0",
+        "spm_code": "category_stmt.product.8",
+        "spm_params": "{\"product_id\":11814}"
+      }
+    },
+    {
+      "cat_id": 0,
+      "comments_total": "1744",
+      "is_multi_price": false,
+      "is_stock": false,
+      "labels": [
+        "赠"
+      ],
+      "log_code": "bpm=83.250.3881506.8&cdm=0.1.mjawms1naxnob3bsyw5rlxhpyw9tav9jyxrlz29yev9wywdllwv4celkxzgxnzq4ni1lehbjzf8xmjc4ndy4lwv4celkxzewodkymzgtzxhwswrfmtixnzg4mc1lehbjzf8zmzc4ndqtdhjhy2vjzf9lode3otc3ywu5otu0nzizyjkzmddlndhmzda3oty0ng==.0&uni=8.834&next=6.64.2.18365",
+      "market_price": "15999",
+      "name": "小米电视大师86英寸mini led",
+      "price": "14999",
+      "product_desc": "全新自研画质引擎 | 千级分区qd-mini led |  2000nits 峰值亮度",
+      "product_desc_origin": "全新自研画质引擎 | 千级分区qd-mini led |  2000nits 峰值亮度",
+      "product_id": 18365,
+      "puzzle_url": "https://cdn.cnbj1.fds.api.mi-img.com/nr-pub/202304180958_20a47c43888b873b18af2b89216e9c9d.png?w=800&h=800",
+      "satisfy_per": "99.5%",
+      "spm_stat": {
+        "scm": "server.0.0.0.product.834.0.0",
+        "spm_code": "category_stmt.product.9",
+        "spm_params": "{\"product_id\":18365}"
+      }
+    },
+    {
+      "cat_id": 0,
+      "comments_total": "4068",
+      "is_multi_price": false,
+      "is_stock": false,
+      "log_code": "bpm=83.250.3881506.10&cdm=0.1.mjawms1naxnob3bsyw5rlxhpyw9tav9jyxrlz29yev9wywdllwv4celkxzgxnzq4ni1lehbjzf8xmjc4ndy4lwv4celkxzewodkymzgtzxhwswrfmtixnzg4mc1lehbjzf8zmzc4ndqtdhjhy2vjzf9lode3otc3ywu5otu0nzizyjkzmddlndhmzda3oty0ng==.0&uni=8.834&next=6.64.2.18439",
+      "market_price": "10999",
+      "name": "小米电视es pro 90英寸",
+      "price": "9999",
+      "product_desc": "4k 144hz、4+64gb、百级背光、1000nits峰值亮度、wifi6、远场语音",
+      "product_desc_origin": "4k 144hz、4+64gb、百级背光、1000nits峰值亮度、wifi6、远场语音",
+      "product_id": 18439,
+      "puzzle_url": "https://cdn.cnbj1.fds.api.mi-img.com/nr-pub/202304241437_b8e23eb73ca2e4784807a211a9c07fcd.png?w=800&h=800",
+      "satisfy_per": "100.0%",
+      "spm_stat": {
+        "scm": "server.0.0.0.product.834.0.0",
+        "spm_code": "category_stmt.product.10",
+        "spm_params": "{\"product_id\":18439}"
+      }
+    },
+    {
+      "cat_id": 0,
+      "comments_total": "1204",
+      "is_multi_price": false,
+      "is_stock": false,
+      "labels": [
+        "赠"
+      ],
+      "log_code": "bpm=83.250.3881506.11&cdm=0.1.mjawms1naxnob3bsyw5rlxhpyw9tav9jyxrlz29yev9wywdllwv4celkxzgxnzq4ni1lehbjzf8xmjc4ndy4lwv4celkxzewodkymzgtzxhwswrfmtixnzg4mc1lehbjzf8zmzc4ndqtdhjhy2vjzf9lode3otc3ywu5otu0nzizyjkzmddlndhmzda3oty0ng==.0&uni=8.834&next=6.64.2.18440",
+      "market_price": "8999",
+      "name": "redmi智能电视max90 英寸",
+      "price": "7999",
+      "product_desc": "4k 144hz、3+32gb、百级背光",
+      "product_desc_origin": "4k 144hz、3+32gb、百级背光",
+      "product_id": 18440,
+      "puzzle_url": "https://cdn.cnbj1.fds.api.mi-img.com/nr-pub/202304251013_2a33706ecc8f0c3a34945073288e28ae.png?w=800&h=800",
+      "satisfy_per": "99.5%",
+      "spm_stat": {
+        "scm": "server.0.0.0.product.834.0.0",
+        "spm_code": "category_stmt.product.11",
+        "spm_params": "{\"product_id\":18440}"
+      }
+    },
+    {
+      "cat_id": 0,
+      "comments_total": "5299",
+      "is_multi_price": false,
+      "is_stock": false,
+      "log_code": "bpm=83.250.3881506.6&cdm=0.1.mjawms1naxnob3bsyw5rlxhpyw9tav9jyxrlz29yev9wywdllwv4celkxzgxnzq4ni1lehbjzf8xmjc4ndy4lwv4celkxzewodkymzgtzxhwswrfmtixnzg4mc1lehbjzf8zmzc4ndqtdhjhy2vjzf9lode3otc3ywu5otu0nzizyjkzmddlndhmzda3oty0ng==.0&uni=8.834&next=6.64.2.16685",
+      "market_price": "5299",
+      "name": "redmi 智能电视 x86 86英寸",
+      "price": "5199",
+      "product_desc": "4k超高清大屏 | memc动态补偿 | 远场语音",
+      "product_desc_origin": "4k超高清大屏 | memc动态补偿 | 远场语音",
+      "product_id": 16685,
+      "puzzle_url": "https://cdn.cnbj1.fds.api.mi-img.com/nr-pub/202210241710_993b4b6d460cd99d9904f5ba2fd1d91b.png?w=800&h=800",
+      "satisfy_per": "99.8%",
+      "spm_stat": {
+        "scm": "server.0.0.0.product.834.0.0",
+        "spm_code": "category_stmt.product.12",
+        "spm_params": "{\"product_id\":16685}"
+      }
+    },
+    {
+      "cat_id": 0,
+      "comments_total": "145",
+      "is_multi_price": false,
+      "is_stock": false,
+      "log_code": "bpm=83.250.3881506.14&cdm=0.1.mjawms1naxnob3bsyw5rlxhpyw9tav9jyxrlz29yev9wywdllwv4celkxzgxnzq4ni1lehbjzf8xmjc4ndy4lwv4celkxzewodkymzgtzxhwswrfmtixnzg4mc1lehbjzf8zmzc4ndqtdhjhy2vjzf9lode3otc3ywu5otu0nzizyjkzmddlndhmzda3oty0ng==.0&uni=8.834&next=6.64.2.19317",
+      "market_price": "6999",
+      "name": "小米电视 a pro 85英寸 ",
+      "price": "5999",
+      "product_desc": "120hz竞技模式 | 3gb+32gb | 远场语音",
+      "product_desc_origin": "120hz竞技模式 | 3gb+32gb | 远场语音",
+      "product_id": 19317,
+      "puzzle_url": "https://cdn.cnbj1.fds.api.mi-img.com/nr-pub/202310181456_58f048a10843057ca52ffb821c062921.png?w=800&h=800",
+      "satisfy_per": "100.0%",
+      "spm_stat": {
+        "scm": "server.0.0.0.product.834.0.0",
+        "spm_code": "category_stmt.product.13",
+        "spm_params": "{\"product_id\":19317}"
+      }
+    },
+    {
+      "cat_id": 0,
+      "comments_total": "",
+      "is_multi_price": false,
+      "is_stock": false,
+      "log_code": "bpm=83.250.3881506.3&cdm=0.1.mjawms1naxnob3bsyw5rlxhpyw9tav9jyxrlz29yev9wywdllwv4celkxzgxnzq4ni1lehbjzf8xmjc4ndy4lwv4celkxzewodkymzgtzxhwswrfmtixnzg4mc1lehbjzf8zmzc4ndqtdhjhy2vjzf9lode3otc3ywu5otu0nzizyjkzmddlndhmzda3oty0ng==.0&uni=8.834&next=6.64.2.19364",
+      "market_price": "13998",
+      "name": "小米电视 s pro 85 mini led+电视音响5.1.4",
+      "price": "11598",
+      "product_desc": "1440背光分区 | 2400nits峰值亮度 | 杜比全景声",
+      "product_desc_origin": "1440背光分区 | 2400nits峰值亮度 | 杜比全景声",
+      "product_id": 19364,
+      "puzzle_url": "https://cdn.cnbj1.fds.api.mi-img.com/nr-pub/202310261737_09c5855d32e0d756d706eae121b539eb.jpg?w=800&h=800",
+      "satisfy_per": "",
+      "spm_stat": {
+        "scm": "server.0.0.0.product.834.0.0",
+        "spm_code": "category_stmt.product.14",
+        "spm_params": "{\"product_id\":19364}"
+      }
+    },
+    {
+      "cat_id": 0,
+      "comments_total": "",
+      "is_multi_price": false,
+      "is_stock": false,
+      "log_code": "bpm=83.250.3881506.7&cdm=0.1.mjawms1naxnob3bsyw5rlxhpyw9tav9jyxrlz29yev9wywdllwv4celkxzgxnzq4ni1lehbjzf8xmjc4ndy4lwv4celkxzewodkymzgtzxhwswrfmtixnzg4mc1lehbjzf8zmzc4ndqtdhjhy2vjzf9lode3otc3ywu5otu0nzizyjkzmddlndhmzda3oty0ng==.0&uni=8.834&next=6.64.2.18132",
+      "market_price": "12998",
+      "name": "大屏&大新风套装（max 86\"+新风3匹空调） ",
+      "price": "12998",
+      "product_desc": "max 86\"+新风3匹空调",
+      "product_desc_origin": "max 86\"+新风3匹空调",
+      "product_id": 18132,
+      "puzzle_url": "https://cdn.cnbj1.fds.api.mi-img.com/nr-pub/202212242022_f9456bf36437f2888d3a7b733319743f.png?w=800&h=800",
+      "satisfy_per": "",
+      "spm_stat": {
+        "scm": "server.0.0.0.product.834.0.0",
+        "spm_code": "category_stmt.product.15",
+        "spm_params": "{\"product_id\":18132}"
+      }
+    }
+  ]
+}

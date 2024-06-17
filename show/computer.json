@@ -1,0 +1,425 @@
+{
+  "年度新品": [
+    {
+      "cat_id": 0,
+      "comments_total": "361",
+      "is_multi_price": true,
+      "is_stock": false,
+      "labels": [
+        "上新"
+      ],
+      "log_code": "bpm=83.250.3881506.1&cdm=0.1.mjawms1naxnob3bsyw5rlxhpyw9tav9jyxrlz29yev9wywdllwv4celkxzgxnzq4ni1lehbjzf8xmjc4ndy4lwv4celkxzewodkymzgtzxhwswrfmtixnzg4mc1lehbjzf8zmzc4ndqtdhjhy2vjzf84ytbkngy1owfmmju0mtnjywqymdm0yjayymy5m2y4oa==.0&uni=8.2398&next=6.64.2.10050058",
+      "market_price": "4699",
+      "name": "redmi book 16 2024",
+      "price": "4399",
+      "product_desc": "47w 满血性能 | 小米澎湃智联",
+      "product_desc_origin": "47w 满血性能 | 小米澎湃智联",
+      "product_id": 10050058,
+      "puzzle_url": "https://cdn.cnbj1.fds.api.mi-img.com/nr-pub/202311281956_f87f4c37af45c2261e944f57d29e4a03.png?w=800&h=800",
+      "satisfy_per": "100.0%",
+      "spm_stat": {
+        "scm": "server.0.0.0.product.2398.0.0",
+        "spm_code": "category_stmt.product.1",
+        "spm_params": "{\"product_id\":10050058}"
+      }
+    },
+    {
+      "cat_id": 0,
+      "comments_total": "257",
+      "is_multi_price": true,
+      "is_stock": false,
+      "labels": [
+        "上新"
+      ],
+      "log_code": "bpm=83.250.3881506.2&cdm=0.1.mjawms1naxnob3bsyw5rlxhpyw9tav9jyxrlz29yev9wywdllwv4celkxzgxnzq4ni1lehbjzf8xmjc4ndy4lwv4celkxzewodkymzgtzxhwswrfmtixnzg4mc1lehbjzf8zmzc4ndqtdhjhy2vjzf84ytbkngy1owfmmju0mtnjywqymdm0yjayymy5m2y4oa==.0&uni=8.2398&next=6.64.2.10050057",
+      "market_price": "4499",
+      "name": "redmi book 14 2024",
+      "price": "4199",
+      "product_desc": "47w 满血性能 | 小米澎湃智联",
+      "product_desc_origin": "47w 满血性能 | 小米澎湃智联",
+      "product_id": 10050057,
+      "puzzle_url": "https://cdn.cnbj1.fds.api.mi-img.com/nr-pub/202311281948_e41396e545d3ba8da294444a47abb590.png?w=800&h=800",
+      "satisfy_per": "99.6%",
+      "spm_stat": {
+        "scm": "server.0.0.0.product.2398.0.0",
+        "spm_code": "category_stmt.product.2",
+        "spm_params": "{\"product_id\":10050057}"
+      }
+    },
+    {
+      "cat_id": 0,
+      "comments_total": "3535",
+      "is_multi_price": true,
+      "is_stock": false,
+      "log_code": "bpm=83.250.3881506.4&cdm=0.1.mjawms1naxnob3bsyw5rlxhpyw9tav9jyxrlz29yev9wywdllwv4celkxzgxnzq4ni1lehbjzf8xmjc4ndy4lwv4celkxzewodkymzgtzxhwswrfmtixnzg4mc1lehbjzf8zmzc4ndqtdhjhy2vjzf84ytbkngy1owfmmju0mtnjywqymdm0yjayymy5m2y4oa==.0&uni=8.2398&next=6.64.2.10050045",
+      "market_price": "4799",
+      "name": "redmi book pro 15 2023 锐龙版",
+      "price": "4599",
+      "product_desc": "可选锐龙7 7840hs处理器 | 3.2k 120hz hdr屏",
+      "product_desc_origin": "可选锐龙7 7840hs处理器 | 3.2k 120hz hdr屏",
+      "product_id": 10050045,
+      "puzzle_url": "https://cdn.cnbj1.fds.api.mi-img.com/nr-pub/202307191002_5b13c4fecad5a5f36f64514a45fd480e.png?w=800&h=800",
+      "satisfy_per": "99.5%",
+      "spm_stat": {
+        "scm": "server.0.0.0.product.2398.0.0",
+        "spm_code": "category_stmt.product.3",
+        "spm_params": "{\"product_id\":10050045}"
+      }
+    },
+    {
+      "cat_id": 0,
+      "comments_total": "7352",
+      "is_multi_price": true,
+      "is_stock": false,
+      "log_code": "bpm=83.250.3881506.3&cdm=0.1.mjawms1naxnob3bsyw5rlxhpyw9tav9jyxrlz29yev9wywdllwv4celkxzgxnzq4ni1lehbjzf8xmjc4ndy4lwv4celkxzewodkymzgtzxhwswrfmtixnzg4mc1lehbjzf8zmzc4ndqtdhjhy2vjzf84ytbkngy1owfmmju0mtnjywqymdm0yjayymy5m2y4oa==.0&uni=8.2398&next=6.64.2.10050035",
+      "market_price": "4599",
+      "name": "redmi book 14",
+      "price": "3799",
+      "product_desc": "45w满血标压｜2.8k 120hz 高刷原色屏",
+      "product_desc_origin": "45w满血标压｜2.8k 120hz 高刷原色屏",
+      "product_id": 10050035,
+      "puzzle_url": "https://cdn.cnbj1.fds.api.mi-img.com/nr-pub/202305181410_980b35c0be591c736b081ff6b5f45788.png?w=800&h=800",
+      "satisfy_per": "99.7%",
+      "spm_stat": {
+        "scm": "server.0.0.0.product.2398.0.0",
+        "spm_code": "category_stmt.product.4",
+        "spm_params": "{\"product_id\":10050035}"
+      }
+    }
+  ],
+  "小米轻薄本": [
+    {
+      "cat_id": 0,
+      "comments_total": "1349",
+      "is_multi_price": true,
+      "is_stock": false,
+      "log_code": "bpm=83.250.3881506.4&cdm=0.1.mjawms1naxnob3bsyw5rlxhpyw9tav9jyxrlz29yev9wywdllwv4celkxzgxnzq4ni1lehbjzf8xmjc4ndy4lwv4celkxzewodkymzgtzxhwswrfmtixnzg4mc1lehbjzf8zmzc4ndqtdhjhy2vjzf83ytu0mtixmznimzq0odrjywqwntq2n2jkn2vhzti0zg==.0&uni=8.2383&next=6.64.2.10000420",
+      "market_price": "6399",
+      "name": "xiaomi book pro 14 锐龙版",
+      "price": "4399",
+      "product_desc": "锐龙6000h系列标压处理器 | 2.8k 90hz oled屏 | 14.9mm轻薄机身 | cnc一体精雕工艺 | 16g+512g",
+      "product_desc_origin": "锐龙6000h系列标压处理器 | 2.8k 90hz oled屏 | 14.9mm轻薄机身 | cnc一体精雕工艺 | 16g+512g",
+      "product_id": 10000420,
+      "puzzle_url": "https://cdn.cnbj1.fds.api.mi-img.com/mi-mall/52f80d5f67d3ec1a94402a738d538073.png?w=800&h=800",
+      "satisfy_per": "99.2%",
+      "spm_stat": {
+        "scm": "server.0.0.0.product.2383.0.0",
+        "spm_code": "category_stmt.product.1",
+        "spm_params": "{\"product_id\":10000420}"
+      }
+    },
+    {
+      "cat_id": 0,
+      "comments_total": "236",
+      "is_multi_price": false,
+      "is_stock": false,
+      "labels": [
+        "赠"
+      ],
+      "log_code": "bpm=83.250.3881506.2&cdm=0.1.mjawms1naxnob3bsyw5rlxhpyw9tav9jyxrlz29yev9wywdllwv4celkxzgxnzq4ni1lehbjzf8xmjc4ndy4lwv4celkxzewodkymzgtzxhwswrfmtixnzg4mc1lehbjzf8zmzc4ndqtdhjhy2vjzf83ytu0mtixmznimzq0odrjywqwntq2n2jkn2vhzti0zg==.0&uni=8.2383&next=6.64.2.19320",
+      "market_price": "3999",
+      "name": "xiaomi 迷你主机 2023",
+      "price": "3499",
+      "product_desc": "小而强大",
+      "product_desc_origin": "小而强大",
+      "product_id": 19320,
+      "puzzle_url": "https://cdn.cnbj1.fds.api.mi-img.com/nr-pub/202211291456_fba6f6361c643b6a69571ee2b12f1683.png?w=800&h=800",
+      "satisfy_per": "99.2%",
+      "spm_stat": {
+        "scm": "server.0.0.0.product.2383.0.0",
+        "spm_code": "category_stmt.product.2",
+        "spm_params": "{\"product_id\":19320}"
+      }
+    },
+    {
+      "cat_id": 0,
+      "comments_total": "3481",
+      "is_multi_price": true,
+      "is_stock": false,
+      "log_code": "bpm=83.250.3881506.5&cdm=0.1.mjawms1naxnob3bsyw5rlxhpyw9tav9jyxrlz29yev9wywdllwv4celkxzgxnzq4ni1lehbjzf8xmjc4ndy4lwv4celkxzewodkymzgtzxhwswrfmtixnzg4mc1lehbjzf8zmzc4ndqtdhjhy2vjzf83ytu0mtixmznimzq0odrjywqwntq2n2jkn2vhzti0zg==.0&uni=8.2383&next=6.64.2.10050022",
+      "market_price": "6799",
+      "name": "xiaomi book pro 14 2022",
+      "price": "5599",
+      "product_desc": "2.8k 90hz oled 触控屏 | cnc一体精雕工艺 | 压感触控板  | 12代英特尔®酷睿™处理器 | 最高可选rtx2050光追独显",
+      "product_desc_origin": "2.8k 90hz oled 触控屏 | cnc一体精雕工艺 | 压感触控板  | 12代英特尔®酷睿™处理器 | 最高可选rtx2050光追独显",
+      "product_id": 10050022,
+      "puzzle_url": "https://cdn.cnbj1.fds.api.mi-img.com/nr-pub/202207011527_132ced8ba4e85c9b3645b44a9e66f48e.png?w=800&h=800",
+      "satisfy_per": "99.8%",
+      "spm_stat": {
+        "scm": "server.0.0.0.product.2383.0.0",
+        "spm_code": "category_stmt.product.3",
+        "spm_params": "{\"product_id\":10050022}"
+      }
+    },
+    {
+      "cat_id": 0,
+      "comments_total": "1165",
+      "is_multi_price": false,
+      "is_stock": false,
+      "log_code": "bpm=83.250.3881506.1&cdm=0.1.mjawms1naxnob3bsyw5rlxhpyw9tav9jyxrlz29yev9wywdllwv4celkxzgxnzq4ni1lehbjzf8xmjc4ndy4lwv4celkxzewodkymzgtzxhwswrfmtixnzg4mc1lehbjzf8zmzc4ndqtdhjhy2vjzf83ytu0mtixmznimzq0odrjywqwntq2n2jkn2vhzti0zg==.0&uni=8.2383&next=6.64.2.18070",
+      "market_price": "2999",
+      "name": "xiaomi迷你主机 准系统",
+      "price": "2799",
+      "product_desc": "台式机级性能，大满贯接口",
+      "product_desc_origin": "台式机级性能，大满贯接口",
+      "product_id": 18070,
+      "puzzle_url": "https://cdn.cnbj1.fds.api.mi-img.com/nr-pub/202211291456_fba6f6361c643b6a69571ee2b12f1683.png?w=800&h=800",
+      "satisfy_per": "99.5%",
+      "spm_stat": {
+        "scm": "server.0.0.0.product.2383.0.0",
+        "spm_code": "category_stmt.product.4",
+        "spm_params": "{\"product_id\":18070}"
+      }
+    },
+    {
+      "cat_id": 0,
+      "comments_total": "1078",
+      "is_multi_price": false,
+      "is_stock": false,
+      "log_code": "bpm=83.250.3881506.3&cdm=0.1.mjawms1naxnob3bsyw5rlxhpyw9tav9jyxrlz29yev9wywdllwv4celkxzgxnzq4ni1lehbjzf8xmjc4ndy4lwv4celkxzewodkymzgtzxhwswrfmtixnzg4mc1lehbjzf8zmzc4ndqtdhjhy2vjzf83ytu0mtixmznimzq0odrjywqwntq2n2jkn2vhzti0zg==.0&uni=8.2383&next=6.64.2.10000301",
+      "market_price": "8499",
+      "name": "小米笔记本 pro x 15",
+      "price": "6299",
+      "product_desc": "3.5k e4 oled 超视网膜大师屏",
+      "product_desc_origin": "3.5k e4 oled 超视网膜大师屏",
+      "product_id": 10000301,
+      "puzzle_url": "https://cdn.cnbj1.fds.api.mi-img.com/mi-mall/8dc6e5c76f4215cc18557b8b429007c9.png?w=800&h=800",
+      "satisfy_per": "99.2%",
+      "spm_stat": {
+        "scm": "server.0.0.0.product.2383.0.0",
+        "spm_code": "category_stmt.product.5",
+        "spm_params": "{\"product_id\":10000301}"
+      }
+    }
+  ],
+  "redmi游戏本": [
+    {
+      "cat_id": 0,
+      "comments_total": "10590",
+      "is_multi_price": true,
+      "is_stock": false,
+      "log_code": "bpm=83.250.3881506.1&cdm=0.1.mjawms1naxnob3bsyw5rlxhpyw9tav9jyxrlz29yev9wywdllwv4celkxzgxnzq4ni1lehbjzf8xmjc4ndy4lwv4celkxzewodkymzgtzxhwswrfmtixnzg4mc1lehbjzf8zmzc4ndqtdhjhy2vjzf9jndcznmi5odjkota0zjezodazyjqxytrhmtzjnduwyw==.0&uni=8.2396&next=6.64.2.10000412",
+      "market_price": "7499",
+      "name": "redmi g 游戏本 2022",
+      "price": "4999",
+      "product_desc": "16英寸 2.5k 165hz 电竞大屏 | 可选 geforce rtx™ 3050 ti",
+      "product_desc_origin": "16英寸 2.5k 165hz 电竞大屏 | 可选 geforce rtx™ 3050 ti",
+      "product_id": 10000412,
+      "puzzle_url": "https://cdn.cnbj1.fds.api.mi-img.com/mi-mall/50b73aeedeeb27392a15d9d479e5d793.png?w=800&h=800",
+      "satisfy_per": "99.2%",
+      "spm_stat": {
+        "scm": "server.0.0.0.product.2396.0.0",
+        "spm_code": "category_stmt.product.1",
+        "spm_params": "{\"product_id\":10000412}"
+      }
+    }
+  ],
+  "redmi轻薄本": [
+    {
+      "cat_id": 0,
+      "comments_total": "361",
+      "is_multi_price": true,
+      "is_stock": false,
+      "labels": [
+        "上新"
+      ],
+      "log_code": "bpm=83.250.3881506.10&cdm=0.1.mjawms1naxnob3bsyw5rlxhpyw9tav9jyxrlz29yev9wywdllwv4celkxzgxnzq4ni1lehbjzf8xmjc4ndy4lwv4celkxzewodkymzgtzxhwswrfmtixnzg4mc1lehbjzf8zmzc4ndqtdhjhy2vjzf9hnzq2nze1ymq3zjc0ntexyjazmwnmmta1othkogfmmg==.0&uni=8.2397&next=6.64.2.10050058",
+      "market_price": "4699",
+      "name": "redmi book 16 2024",
+      "price": "4399",
+      "product_desc": "47w 满血性能 | 小米澎湃智联",
+      "product_desc_origin": "47w 满血性能 | 小米澎湃智联",
+      "product_id": 10050058,
+      "puzzle_url": "https://cdn.cnbj1.fds.api.mi-img.com/nr-pub/202311281956_f87f4c37af45c2261e944f57d29e4a03.png?w=800&h=800",
+      "satisfy_per": "100.0%",
+      "spm_stat": {
+        "scm": "server.0.0.0.product.2397.0.0",
+        "spm_code": "category_stmt.product.1",
+        "spm_params": "{\"product_id\":10050058}"
+      }
+    },
+    {
+      "cat_id": 0,
+      "comments_total": "257",
+      "is_multi_price": true,
+      "is_stock": false,
+      "labels": [
+        "上新"
+      ],
+      "log_code": "bpm=83.250.3881506.9&cdm=0.1.mjawms1naxnob3bsyw5rlxhpyw9tav9jyxrlz29yev9wywdllwv4celkxzgxnzq4ni1lehbjzf8xmjc4ndy4lwv4celkxzewodkymzgtzxhwswrfmtixnzg4mc1lehbjzf8zmzc4ndqtdhjhy2vjzf9hnzq2nze1ymq3zjc0ntexyjazmwnmmta1othkogfmmg==.0&uni=8.2397&next=6.64.2.10050057",
+      "market_price": "4499",
+      "name": "redmi book 14 2024",
+      "price": "4199",
+      "product_desc": "47w 满血性能 | 小米澎湃智联",
+      "product_desc_origin": "47w 满血性能 | 小米澎湃智联",
+      "product_id": 10050057,
+      "puzzle_url": "https://cdn.cnbj1.fds.api.mi-img.com/nr-pub/202311281948_e41396e545d3ba8da294444a47abb590.png?w=800&h=800",
+      "satisfy_per": "99.6%",
+      "spm_stat": {
+        "scm": "server.0.0.0.product.2397.0.0",
+        "spm_code": "category_stmt.product.2",
+        "spm_params": "{\"product_id\":10050057}"
+      }
+    },
+    {
+      "cat_id": 0,
+      "comments_total": "959",
+      "is_multi_price": true,
+      "is_stock": false,
+      "log_code": "bpm=83.250.3881506.8&cdm=0.1.mjawms1naxnob3bsyw5rlxhpyw9tav9jyxrlz29yev9wywdllwv4celkxzgxnzq4ni1lehbjzf8xmjc4ndy4lwv4celkxzewodkymzgtzxhwswrfmtixnzg4mc1lehbjzf8zmzc4ndqtdhjhy2vjzf9hnzq2nze1ymq3zjc0ntexyjazmwnmmta1othkogfmmg==.0&uni=8.2397&next=6.64.2.10050037",
+      "market_price": "3599",
+      "name": "redmi book 15e",
+      "price": "2999",
+      "product_desc": "酷睿标压处理器|15.6‘’ 全高清大屏|大满贯接口",
+      "product_desc_origin": "酷睿标压处理器|15.6‘’ 全高清大屏|大满贯接口",
+      "product_id": 10050037,
+      "puzzle_url": "https://cdn.cnbj1.fds.api.mi-img.com/nr-pub/202306251935_8685eac093e75da7e4e335336db6bf32.png?w=800&h=800",
+      "satisfy_per": "99.1%",
+      "spm_stat": {
+        "scm": "server.0.0.0.product.2397.0.0",
+        "spm_code": "category_stmt.product.3",
+        "spm_params": "{\"product_id\":10050037}"
+      }
+    },
+    {
+      "cat_id": 0,
+      "comments_total": "7824",
+      "is_multi_price": true,
+      "is_stock": false,
+      "log_code": "bpm=83.250.3881506.2&cdm=0.1.mjawms1naxnob3bsyw5rlxhpyw9tav9jyxrlz29yev9wywdllwv4celkxzgxnzq4ni1lehbjzf8xmjc4ndy4lwv4celkxzewodkymzgtzxhwswrfmtixnzg4mc1lehbjzf8zmzc4ndqtdhjhy2vjzf9hnzq2nze1ymq3zjc0ntexyjazmwnmmta1othkogfmmg==.0&uni=8.2397&next=6.64.2.10000297",
+      "market_price": "4599",
+      "name": "redmibook pro 14 锐龙版",
+      "price": "3499",
+      "product_desc": "2.5k超视网膜全面屏 | 一体精雕工艺",
+      "product_desc_origin": "2.5k超视网膜全面屏 | 一体精雕工艺",
+      "product_id": 10000297,
+      "puzzle_url": "https://cdn.cnbj1.fds.api.mi-img.com/mi-mall/c21cd00be7a9b58657be08b13b464d90.png?w=800&h=800",
+      "satisfy_per": "99.6%",
+      "spm_stat": {
+        "scm": "server.0.0.0.product.2397.0.0",
+        "spm_code": "category_stmt.product.4",
+        "spm_params": "{\"product_id\":10000297}"
+      }
+    },
+    {
+      "cat_id": 0,
+      "comments_total": "3535",
+      "is_multi_price": true,
+      "is_stock": false,
+      "log_code": "bpm=83.250.3881506.1&cdm=0.1.mjawms1naxnob3bsyw5rlxhpyw9tav9jyxrlz29yev9wywdllwv4celkxzgxnzq4ni1lehbjzf8xmjc4ndy4lwv4celkxzewodkymzgtzxhwswrfmtixnzg4mc1lehbjzf8zmzc4ndqtdhjhy2vjzf9hnzq2nze1ymq3zjc0ntexyjazmwnmmta1othkogfmmg==.0&uni=8.2397&next=6.64.2.10050045",
+      "market_price": "4799",
+      "name": "redmi book pro 15 2023 锐龙版",
+      "price": "4599",
+      "product_desc": "可选锐龙7 7840hs处理器 | 3.2k 120hz hdr屏",
+      "product_desc_origin": "可选锐龙7 7840hs处理器 | 3.2k 120hz hdr屏",
+      "product_id": 10050045,
+      "puzzle_url": "https://cdn.cnbj1.fds.api.mi-img.com/nr-pub/202307191002_5b13c4fecad5a5f36f64514a45fd480e.png?w=800&h=800",
+      "satisfy_per": "99.5%",
+      "spm_stat": {
+        "scm": "server.0.0.0.product.2397.0.0",
+        "spm_code": "category_stmt.product.5",
+        "spm_params": "{\"product_id\":10050045}"
+      }
+    },
+    {
+      "cat_id": 0,
+      "comments_total": "7352",
+      "is_multi_price": true,
+      "is_stock": false,
+      "log_code": "bpm=83.250.3881506.7&cdm=0.1.mjawms1naxnob3bsyw5rlxhpyw9tav9jyxrlz29yev9wywdllwv4celkxzgxnzq4ni1lehbjzf8xmjc4ndy4lwv4celkxzewodkymzgtzxhwswrfmtixnzg4mc1lehbjzf8zmzc4ndqtdhjhy2vjzf9hnzq2nze1ymq3zjc0ntexyjazmwnmmta1othkogfmmg==.0&uni=8.2397&next=6.64.2.10050035",
+      "market_price": "4599",
+      "name": "redmi book 14",
+      "price": "3799",
+      "product_desc": "45w满血标压｜2.8k 120hz 高刷原色屏",
+      "product_desc_origin": "45w满血标压｜2.8k 120hz 高刷原色屏",
+      "product_id": 10050035,
+      "puzzle_url": "https://cdn.cnbj1.fds.api.mi-img.com/nr-pub/202305181410_980b35c0be591c736b081ff6b5f45788.png?w=800&h=800",
+      "satisfy_per": "99.7%",
+      "spm_stat": {
+        "scm": "server.0.0.0.product.2397.0.0",
+        "spm_code": "category_stmt.product.6",
+        "spm_params": "{\"product_id\":10050035}"
+      }
+    },
+    {
+      "cat_id": 0,
+      "comments_total": "6045",
+      "is_multi_price": true,
+      "is_stock": false,
+      "log_code": "bpm=83.250.3881506.3&cdm=0.1.mjawms1naxnob3bsyw5rlxhpyw9tav9jyxrlz29yev9wywdllwv4celkxzgxnzq4ni1lehbjzf8xmjc4ndy4lwv4celkxzewodkymzgtzxhwswrfmtixnzg4mc1lehbjzf8zmzc4ndqtdhjhy2vjzf9hnzq2nze1ymq3zjc0ntexyjazmwnmmta1othkogfmmg==.0&uni=8.2397&next=6.64.2.10000376",
+      "market_price": "5399",
+      "name": "redmi book pro 14 2022",
+      "price": "3699",
+      "product_desc": "全新12代英特尔处理器 | windows 11 家庭中文版 | 2.5k 120hz高清屏 | 可选mx550独立显卡",
+      "product_desc_origin": "全新12代英特尔处理器 | windows 11 家庭中文版 | 2.5k 120hz高清屏 | 可选mx550独立显卡",
+      "product_id": 10000376,
+      "puzzle_url": "https://cdn.cnbj1.fds.api.mi-img.com/mi-mall/fd627fe14fd466d4f61c6b2ebd597749.png?w=800&h=800",
+      "satisfy_per": "99.4%",
+      "spm_stat": {
+        "scm": "server.0.0.0.product.2397.0.0",
+        "spm_code": "category_stmt.product.7",
+        "spm_params": "{\"product_id\":10000376}"
+      }
+    },
+    {
+      "cat_id": 0,
+      "comments_total": "7125",
+      "is_multi_price": true,
+      "is_stock": false,
+      "log_code": "bpm=83.250.3881506.6&cdm=0.1.mjawms1naxnob3bsyw5rlxhpyw9tav9jyxrlz29yev9wywdllwv4celkxzgxnzq4ni1lehbjzf8xmjc4ndy4lwv4celkxzewodkymzgtzxhwswrfmtixnzg4mc1lehbjzf8zmzc4ndqtdhjhy2vjzf9hnzq2nze1ymq3zjc0ntexyjazmwnmmta1othkogfmmg==.0&uni=8.2397&next=6.64.2.10000379",
+      "market_price": "5499",
+      "name": "redmibook pro 15 2022 锐龙版",
+      "price": "4099",
+      "product_desc": "可选全新锐龙7 6800h处理器，3.2k 90hz高清屏，rtx 2050高性能独立显卡，cnc一体精雕工艺",
+      "product_desc_origin": "可选全新锐龙7 6800h处理器，3.2k 90hz高清屏，rtx 2050高性能独立显卡，cnc一体精雕工艺",
+      "product_id": 10000379,
+      "puzzle_url": "https://cdn.cnbj1.fds.api.mi-img.com/mi-mall/23e4d0a68535b7481a2a49447d583729.png?w=800&h=800",
+      "satisfy_per": "99.1%",
+      "spm_stat": {
+        "scm": "server.0.0.0.product.2397.0.0",
+        "spm_code": "category_stmt.product.8",
+        "spm_params": "{\"product_id\":10000379}"
+      }
+    },
+    {
+      "cat_id": 0,
+      "comments_total": "2240",
+      "is_multi_price": true,
+      "is_stock": false,
+      "log_code": "bpm=83.250.3881506.5&cdm=0.1.mjawms1naxnob3bsyw5rlxhpyw9tav9jyxrlz29yev9wywdllwv4celkxzgxnzq4ni1lehbjzf8xmjc4ndy4lwv4celkxzewodkymzgtzxhwswrfmtixnzg4mc1lehbjzf8zmzc4ndqtdhjhy2vjzf9hnzq2nze1ymq3zjc0ntexyjazmwnmmta1othkogfmmg==.0&uni=8.2397&next=6.64.2.10000378",
+      "market_price": "5299",
+      "name": "redmibook pro 14 2022 锐龙版",
+      "price": "3599",
+      "product_desc": "可选全新r7 6800h处理器，2.5k 120hz高清屏，cnc一体精雕工艺",
+      "product_desc_origin": "可选全新r7 6800h处理器，2.5k 120hz高清屏，cnc一体精雕工艺",
+      "product_id": 10000378,
+      "puzzle_url": "https://cdn.cnbj1.fds.api.mi-img.com/mi-mall/618de92c83066a6dca4a27900b1f21ad.png?w=800&h=800",
+      "satisfy_per": "99.4%",
+      "spm_stat": {
+        "scm": "server.0.0.0.product.2397.0.0",
+        "spm_code": "category_stmt.product.9",
+        "spm_params": "{\"product_id\":10000378}"
+      }
+    },
+    {
+      "cat_id": 0,
+      "comments_total": "6226",
+      "is_multi_price": true,
+      "is_stock": false,
+      "log_code": "bpm=83.250.3881506.4&cdm=0.1.mjawms1naxnob3bsyw5rlxhpyw9tav9jyxrlz29yev9wywdllwv4celkxzgxnzq4ni1lehbjzf8xmjc4ndy4lwv4celkxzewodkymzgtzxhwswrfmtixnzg4mc1lehbjzf8zmzc4ndqtdhjhy2vjzf9hnzq2nze1ymq3zjc0ntexyjazmwnmmta1othkogfmmg==.0&uni=8.2397&next=6.64.2.10000377",
+      "market_price": "5599",
+      "name": "redmi book pro 15 2022",
+      "price": "4299",
+      "product_desc": "全新12代英特尔处理器 | windows 11 家庭中文版 | 可选rtx 2050高性能独立显卡 | 3.2k 90hz 原色超清屏",
+      "product_desc_origin": "全新12代英特尔处理器 | windows 11 家庭中文版 | 可选rtx 2050高性能独立显卡 | 3.2k 90hz 原色超清屏",
+      "product_id": 10000377,
+      "puzzle_url": "https://cdn.cnbj1.fds.api.mi-img.com/mi-mall/23e4d0a68535b7481a2a49447d583729.png?w=800&h=800",
+      "satisfy_per": "99.7%",
+      "spm_stat": {
+        "scm": "server.0.0.0.product.2397.0.0",
+        "spm_code": "category_stmt.product.10",
+        "spm_params": "{\"product_id\":10000377}"
+      }
+    }
+  ]
+}

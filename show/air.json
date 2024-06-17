@@ -1,0 +1,718 @@
+{
+  "新风空调": [
+    {
+      "cat_id": 0,
+      "comments_total": "1238",
+      "is_multi_price": false,
+      "is_stock": false,
+      "log_code": "bpm=83.250.3881506.4&cdm=0.1.mjawms1naxnob3bsyw5rlxhpyw9tav9jyxrlz29yev9wywdllwv4celkxzgxnzq4ni1lehbjzf8xmjc4ndy4lwv4celkxzewodkymzgtzxhwswrfmtixnzg4mc1lehbjzf8zmzc4ndqtdhjhy2vjzf8xy2yzzje2mdi2mty0nzfjote5mwe0zjmymzg0zda4mq==.0&uni=8.1827&next=6.64.2.15939",
+      "market_price": "149",
+      "name": "米家新风空调hepa滤芯 立式版（3片装）",
+      "price": "149",
+      "product_desc": "米家新风空调hepa滤芯 立式版（3片装）",
+      "product_desc_origin": "米家新风空调hepa滤芯 立式版（3片装）",
+      "product_id": 15939,
+      "puzzle_url": "https://cdn.cnbj1.fds.api.mi-img.com/nr-pub/202205051443_a4971020404ddfd0270b6790f0c3723e.png?w=800&h=800",
+      "satisfy_per": "99.7%",
+      "spm_stat": {
+        "scm": "server.0.0.0.product.1827.0.0",
+        "spm_code": "category_stmt.product.1",
+        "spm_params": "{\"product_id\":15939}"
+      }
+    },
+    {
+      "cat_id": 0,
+      "comments_total": "",
+      "is_multi_price": false,
+      "is_stock": false,
+      "log_code": "bpm=83.250.3881506.3&cdm=0.1.mjawms1naxnob3bsyw5rlxhpyw9tav9jyxrlz29yev9wywdllwv4celkxzgxnzq4ni1lehbjzf8xmjc4ndy4lwv4celkxzewodkymzgtzxhwswrfmtixnzg4mc1lehbjzf8zmzc4ndqtdhjhy2vjzf8xy2yzzje2mdi2mty0nzfjote5mwe0zjmymzg0zda4mq==.0&uni=8.1827&next=6.64.2.15657",
+      "market_price": "7299",
+      "name": "米家新风空调 立式3匹新1级能效  ",
+      "price": "6999",
+      "product_desc": "全屋快通风，就要大新风",
+      "product_desc_origin": "全屋快通风，就要大新风",
+      "product_id": 15657,
+      "puzzle_url": "https://cdn.cnbj1.fds.api.mi-img.com/mi-mall/b293110adf78d949fd11990f050da5ea.png?w=800&h=800",
+      "satisfy_per": "",
+      "spm_stat": {
+        "scm": "server.0.0.0.product.1827.0.0",
+        "spm_code": "category_stmt.product.2",
+        "spm_params": "{\"product_id\":15657}"
+      }
+    },
+    {
+      "cat_id": 0,
+      "comments_total": "",
+      "is_multi_price": false,
+      "is_stock": false,
+      "log_code": "bpm=83.250.3881506.1&cdm=0.1.mjawms1naxnob3bsyw5rlxhpyw9tav9jyxrlz29yev9wywdllwv4celkxzgxnzq4ni1lehbjzf8xmjc4ndy4lwv4celkxzewodkymzgtzxhwswrfmtixnzg4mc1lehbjzf8zmzc4ndqtdhjhy2vjzf8xy2yzzje2mdi2mty0nzfjote5mwe0zjmymzg0zda4mq==.0&uni=8.1827&next=6.64.2.13821",
+      "market_price": "3599",
+      "name": "米家新风空调 1.5匹新1级能效 尊享版",
+      "price": "3599",
+      "product_desc": "新风 | 米家空调 尊享版 1.5匹",
+      "product_desc_origin": "新风 | 米家空调 尊享版 1.5匹",
+      "product_id": 13821,
+      "puzzle_url": "https://cdn.cnbj1.fds.api.mi-img.com/mi-mall/7ff263d3e80ee5e2621f9faadba979cd.png?w=800&h=800",
+      "satisfy_per": "",
+      "spm_stat": {
+        "scm": "server.0.0.0.product.1827.0.0",
+        "spm_code": "category_stmt.product.3",
+        "spm_params": "{\"product_id\":13821}"
+      }
+    },
+    {
+      "cat_id": 0,
+      "comments_total": "",
+      "is_multi_price": false,
+      "is_stock": false,
+      "log_code": "bpm=83.250.3881506.5&cdm=0.1.mjawms1naxnob3bsyw5rlxhpyw9tav9jyxrlz29yev9wywdllwv4celkxzgxnzq4ni1lehbjzf8xmjc4ndy4lwv4celkxzewodkymzgtzxhwswrfmtixnzg4mc1lehbjzf8zmzc4ndqtdhjhy2vjzf8xy2yzzje2mdi2mty0nzfjote5mwe0zjmymzg0zda4mq==.0&uni=8.1827&next=6.64.2.19280",
+      "market_price": "2999",
+      "name": "米家新风空调 1.5匹新1级能效 2023",
+      "price": "2999",
+      "product_desc": "打造室内天然氧吧|4重深度净化",
+      "product_desc_origin": "打造室内天然氧吧|4重深度净化",
+      "product_id": 19280,
+      "puzzle_url": "https://cdn.cnbj1.fds.api.mi-img.com/nr-pub/202310081508_18b8d7deaaca3515a957de09c1e18703.png?w=800&h=800",
+      "satisfy_per": "",
+      "spm_stat": {
+        "scm": "server.0.0.0.product.1827.0.0",
+        "spm_code": "category_stmt.product.4",
+        "spm_params": "{\"product_id\":19280}"
+      }
+    },
+    {
+      "cat_id": 0,
+      "comments_total": "16601",
+      "is_multi_price": false,
+      "is_stock": false,
+      "log_code": "bpm=83.250.3881506.2&cdm=0.1.mjawms1naxnob3bsyw5rlxhpyw9tav9jyxrlz29yev9wywdllwv4celkxzgxnzq4ni1lehbjzf8xmjc4ndy4lwv4celkxzewodkymzgtzxhwswrfmtixnzg4mc1lehbjzf8zmzc4ndqtdhjhy2vjzf8xy2yzzje2mdi2mty0nzfjote5mwe0zjmymzg0zda4mq==.0&uni=8.1827&next=6.64.2.14038",
+      "market_price": "119",
+      "name": "米家新风空调hepa滤芯 （3片装）",
+      "price": "99",
+      "product_desc": "米家新风空调hepa滤芯 （3片装）",
+      "product_desc_origin": "米家新风空调hepa滤芯 （3片装）",
+      "product_id": 14038,
+      "puzzle_url": "https://cdn.cnbj1.fds.api.mi-img.com/mi-mall/c9204ed6e08fe24b8498661decd9d7f6.jpg",
+      "satisfy_per": "99.9%",
+      "spm_stat": {
+        "scm": "server.0.0.0.product.1827.0.0",
+        "spm_code": "category_stmt.product.5",
+        "spm_params": "{\"product_id\":14038}"
+      }
+    }
+  ],
+  "1匹挂机": [
+    {
+      "cat_id": 0,
+      "comments_total": "",
+      "is_multi_price": false,
+      "is_stock": false,
+      "log_code": "bpm=83.250.3881506.3&cdm=0.1.mjawms1naxnob3bsyw5rlxhpyw9tav9jyxrlz29yev9wywdllwv4celkxzgxnzq4ni1lehbjzf8xmjc4ndy4lwv4celkxzewodkymzgtzxhwswrfmtixnzg4mc1lehbjzf8zmzc4ndqtdhjhy2vjzf9jmgywy2q1zgnhmtk0mji1otjlmmq4yje5nwqzyjcwnq==.0&uni=8.1822&next=6.64.2.18204",
+      "market_price": "2099",
+      "name": "米家空调 清凉版 大1匹（单冷）",
+      "price": "1699",
+      "product_desc": "米家空调 清凉版 大1匹（单冷）",
+      "product_desc_origin": "米家空调 清凉版 大1匹（单冷）",
+      "product_id": 18204,
+      "puzzle_url": "https://cdn.cnbj1.fds.api.mi-img.com/nr-pub/202211021733_dd9277a89d08e6cc94f823ad99a7d4bc.png?w=800&h=800",
+      "satisfy_per": "",
+      "spm_stat": {
+        "scm": "server.0.0.0.product.1822.0.0",
+        "spm_code": "category_stmt.product.1",
+        "spm_params": "{\"product_id\":18204}"
+      }
+    },
+    {
+      "cat_id": 0,
+      "comments_total": "",
+      "is_multi_price": false,
+      "is_stock": false,
+      "log_code": "bpm=83.250.3881506.2&cdm=0.1.mjawms1naxnob3bsyw5rlxhpyw9tav9jyxrlz29yev9wywdllwv4celkxzgxnzq4ni1lehbjzf8xmjc4ndy4lwv4celkxzewodkymzgtzxhwswrfmtixnzg4mc1lehbjzf8zmzc4ndqtdhjhy2vjzf9jmgywy2q1zgnhmtk0mji1otjlmmq4yje5nwqzyjcwnq==.0&uni=8.1822&next=6.64.2.16152",
+      "market_price": "2299",
+      "name": "巨省电 小米空调 大1匹新1级能效",
+      "price": "2299",
+      "product_desc": "温湿双控 | 全直流变频 | 宽温域运行",
+      "product_desc_origin": "温湿双控 | 全直流变频 | 宽温域运行",
+      "product_id": 16152,
+      "puzzle_url": "https://cdn.cnbj1.fds.api.mi-img.com/mi-mall/21429638bdd453e8c1cb5c357ff4835b.png?w=800&h=800",
+      "satisfy_per": "",
+      "spm_stat": {
+        "scm": "server.0.0.0.product.1822.0.0",
+        "spm_code": "category_stmt.product.2",
+        "spm_params": "{\"product_id\":16152}"
+      }
+    },
+    {
+      "cat_id": 0,
+      "comments_total": "",
+      "is_multi_price": false,
+      "is_stock": false,
+      "log_code": "bpm=83.250.3881506.1&cdm=0.1.mjawms1naxnob3bsyw5rlxhpyw9tav9jyxrlz29yev9wywdllwv4celkxzgxnzq4ni1lehbjzf8xmjc4ndy4lwv4celkxzewodkymzgtzxhwswrfmtixnzg4mc1lehbjzf8zmzc4ndqtdhjhy2vjzf9jmgywy2q1zgnhmtk0mji1otjlmmq4yje5nwqzyjcwnq==.0&uni=8.1822&next=6.64.2.12863",
+      "market_price": "2099",
+      "name": "巨省电 小米空调 大1匹 新3级能效",
+      "price": "1899",
+      "product_desc": "强劲性能 | 智能清洁 | 智能互联",
+      "product_desc_origin": "强劲性能 | 智能清洁 | 智能互联",
+      "product_id": 12863,
+      "puzzle_url": "https://cdn.cnbj1.fds.api.mi-img.com/nr-pub/202206041357_21429638bdd453e8c1cb5c357ff4835b.png?w=800&h=800",
+      "satisfy_per": "",
+      "spm_stat": {
+        "scm": "server.0.0.0.product.1822.0.0",
+        "spm_code": "category_stmt.product.3",
+        "spm_params": "{\"product_id\":12863}"
+      }
+    },
+    {
+      "cat_id": 0,
+      "comments_total": "",
+      "is_multi_price": false,
+      "is_stock": false,
+      "log_code": "bpm=83.250.3881506.5&cdm=0.1.mjawms1naxnob3bsyw5rlxhpyw9tav9jyxrlz29yev9wywdllwv4celkxzgxnzq4ni1lehbjzf8xmjc4ndy4lwv4celkxzewodkymzgtzxhwswrfmtixnzg4mc1lehbjzf8zmzc4ndqtdhjhy2vjzf9jmgywy2q1zgnhmtk0mji1otjlmmq4yje5nwqzyjcwnq==.0&uni=8.1822&next=6.64.2.18218",
+      "market_price": "2299",
+      "name": "速冷静 米家空调 1匹新1级能效",
+      "price": "1999",
+      "product_desc": "速冷静 1匹新1级能效",
+      "product_desc_origin": "速冷静 1匹新1级能效",
+      "product_id": 18218,
+      "puzzle_url": "https://cdn.cnbj1.fds.api.mi-img.com/nr-pub/202211021733_dd9277a89d08e6cc94f823ad99a7d4bc.png?w=800&h=800",
+      "satisfy_per": "",
+      "spm_stat": {
+        "scm": "server.0.0.0.product.1822.0.0",
+        "spm_code": "category_stmt.product.4",
+        "spm_params": "{\"product_id\":18218}"
+      }
+    },
+    {
+      "cat_id": 0,
+      "comments_total": "",
+      "is_multi_price": false,
+      "is_stock": false,
+      "log_code": "bpm=83.250.3881506.4&cdm=0.1.mjawms1naxnob3bsyw5rlxhpyw9tav9jyxrlz29yev9wywdllwv4celkxzgxnzq4ni1lehbjzf8xmjc4ndy4lwv4celkxzewodkymzgtzxhwswrfmtixnzg4mc1lehbjzf8zmzc4ndqtdhjhy2vjzf9jmgywy2q1zgnhmtk0mji1otjlmmq4yje5nwqzyjcwnq==.0&uni=8.1822&next=6.64.2.18217",
+      "market_price": "2599",
+      "name": "小米柔风空调 大1匹新1级能效",
+      "price": "2199",
+      "product_desc": "强劲制冷 | 微孔送风 | 防骤冷化霜",
+      "product_desc_origin": "强劲制冷 | 微孔送风 | 防骤冷化霜",
+      "product_id": 18217,
+      "puzzle_url": "https://cdn.cnbj1.fds.api.mi-img.com/nr-pub/202206041357_21429638bdd453e8c1cb5c357ff4835b.png?w=800&h=800",
+      "satisfy_per": "",
+      "spm_stat": {
+        "scm": "server.0.0.0.product.1822.0.0",
+        "spm_code": "category_stmt.product.5",
+        "spm_params": "{\"product_id\":18217}"
+      }
+    }
+  ],
+  "1.5匹挂机": [
+    {
+      "cat_id": 0,
+      "comments_total": "46",
+      "is_multi_price": true,
+      "is_stock": false,
+      "log_code": "bpm=83.250.3881506.8&cdm=0.1.mjawms1naxnob3bsyw5rlxhpyw9tav9jyxrlz29yev9wywdllwv4celkxzgxnzq4ni1lehbjzf8xmjc4ndy4lwv4celkxzewodkymzgtzxhwswrfmtixnzg4mc1lehbjzf8zmzc4ndqtdhjhy2vjzf81nme3ntzknzzmnze0ngy1ymrmmwyymwqxnjjkoti4oa==.0&uni=8.1823&next=6.64.2.10050056",
+      "market_price": "199",
+      "name": "米家健康滤网（mifd净化模块）",
+      "price": "129",
+      "product_desc": "米家健康滤网（mifd净化模块）",
+      "product_desc_origin": "米家健康滤网（mifd净化模块）",
+      "product_id": 10050056,
+      "puzzle_url": "https://cdn.cnbj1.fds.api.mi-img.com/nr-pub/202307071038_513200cf3897e8f5beeda8d080254111.png?w=800&h=800",
+      "satisfy_per": "99.2%",
+      "spm_stat": {
+        "scm": "server.0.0.0.product.1823.0.0",
+        "spm_code": "category_stmt.product.1",
+        "spm_params": "{\"product_id\":10050056}"
+      }
+    },
+    {
+      "cat_id": 0,
+      "comments_total": "",
+      "is_multi_price": false,
+      "is_stock": false,
+      "log_code": "bpm=83.250.3881506.3&cdm=0.1.mjawms1naxnob3bsyw5rlxhpyw9tav9jyxrlz29yev9wywdllwv4celkxzgxnzq4ni1lehbjzf8xmjc4ndy4lwv4celkxzewodkymzgtzxhwswrfmtixnzg4mc1lehbjzf8zmzc4ndqtdhjhy2vjzf81nme3ntzknzzmnze0ngy1ymrmmwyymwqxnjjkoti4oa==.0&uni=8.1823&next=6.64.2.15908",
+      "market_price": "2699",
+      "name": "巨省电pro 小米空调 1.5匹新1级能效",
+      "price": "2399",
+      "product_desc": "风量升级 | 舒适升级 | 智能互联",
+      "product_desc_origin": "风量升级 | 舒适升级 | 智能互联",
+      "product_id": 15908,
+      "puzzle_url": "https://cdn.cnbj1.fds.api.mi-img.com/mi-mall/21429638bdd453e8c1cb5c357ff4835b.png?w=800&h=800",
+      "satisfy_per": "",
+      "spm_stat": {
+        "scm": "server.0.0.0.product.1823.0.0",
+        "spm_code": "category_stmt.product.2",
+        "spm_params": "{\"product_id\":15908}"
+      }
+    },
+    {
+      "cat_id": 0,
+      "comments_total": "",
+      "is_multi_price": false,
+      "is_stock": false,
+      "log_code": "bpm=83.250.3881506.5&cdm=0.1.mjawms1naxnob3bsyw5rlxhpyw9tav9jyxrlz29yev9wywdllwv4celkxzgxnzq4ni1lehbjzf8xmjc4ndy4lwv4celkxzewodkymzgtzxhwswrfmtixnzg4mc1lehbjzf8zmzc4ndqtdhjhy2vjzf81nme3ntzknzzmnze0ngy1ymrmmwyymwqxnjjkoti4oa==.0&uni=8.1823&next=6.64.2.16534",
+      "market_price": "2399",
+      "name": "速冷静 米家空调 1.5匹新3级能效",
+      "price": "1999",
+      "product_desc": "速冷静 新三级1.5匹",
+      "product_desc_origin": "速冷静 新三级1.5匹",
+      "product_id": 16534,
+      "puzzle_url": "https://cdn.cnbj1.fds.api.mi-img.com/mi-mall/9f4dbcd4bacd914a9990170260a9775d.png?w=800&h=800",
+      "satisfy_per": "",
+      "spm_stat": {
+        "scm": "server.0.0.0.product.1823.0.0",
+        "spm_code": "category_stmt.product.3",
+        "spm_params": "{\"product_id\":16534}"
+      }
+    },
+    {
+      "cat_id": 0,
+      "comments_total": "",
+      "is_multi_price": false,
+      "is_stock": false,
+      "log_code": "bpm=83.250.3881506.2&cdm=0.1.mjawms1naxnob3bsyw5rlxhpyw9tav9jyxrlz29yev9wywdllwv4celkxzgxnzq4ni1lehbjzf8xmjc4ndy4lwv4celkxzewodkymzgtzxhwswrfmtixnzg4mc1lehbjzf8zmzc4ndqtdhjhy2vjzf81nme3ntzknzzmnze0ngy1ymrmmwyymwqxnjjkoti4oa==.0&uni=8.1823&next=6.64.2.13143",
+      "market_price": "2499",
+      "name": "巨省电 小米空调 1.5匹新1级能效 ",
+      "price": "2499",
+      "product_desc": "强劲制冷 | 高效节能 | 智能互联",
+      "product_desc_origin": "强劲制冷 | 高效节能 | 智能互联",
+      "product_id": 13143,
+      "puzzle_url": "https://cdn.cnbj1.fds.api.mi-img.com/mi-mall/21429638bdd453e8c1cb5c357ff4835b.png?w=800&h=800",
+      "satisfy_per": "",
+      "spm_stat": {
+        "scm": "server.0.0.0.product.1823.0.0",
+        "spm_code": "category_stmt.product.4",
+        "spm_params": "{\"product_id\":13143}"
+      }
+    },
+    {
+      "cat_id": 0,
+      "comments_total": "",
+      "is_multi_price": false,
+      "is_stock": false,
+      "log_code": "bpm=83.250.3881506.1&cdm=0.1.mjawms1naxnob3bsyw5rlxhpyw9tav9jyxrlz29yev9wywdllwv4celkxzgxnzq4ni1lehbjzf8xmjc4ndy4lwv4celkxzewodkymzgtzxhwswrfmtixnzg4mc1lehbjzf8zmzc4ndqtdhjhy2vjzf81nme3ntzknzzmnze0ngy1ymrmmwyymwqxnjjkoti4oa==.0&uni=8.1823&next=6.64.2.12802",
+      "market_price": "2199",
+      "name": "巨省电 小米空调 1.5匹新3级能效",
+      "price": "1999",
+      "product_desc": "强劲制冷 | 低噪运行 | 智能互联",
+      "product_desc_origin": "强劲制冷 | 低噪运行 | 智能互联",
+      "product_id": 12802,
+      "puzzle_url": "https://cdn.cnbj1.fds.api.mi-img.com/nr-pub/202303081944_b61077e1b2f218953e2454b10c78bd87.png?w=800&h=800",
+      "satisfy_per": "",
+      "spm_stat": {
+        "scm": "server.0.0.0.product.1823.0.0",
+        "spm_code": "category_stmt.product.5",
+        "spm_params": "{\"product_id\":12802}"
+      }
+    },
+    {
+      "cat_id": 0,
+      "comments_total": "",
+      "is_multi_price": false,
+      "is_stock": false,
+      "log_code": "bpm=83.250.3881506.6&cdm=0.1.mjawms1naxnob3bsyw5rlxhpyw9tav9jyxrlz29yev9wywdllwv4celkxzgxnzq4ni1lehbjzf8xmjc4ndy4lwv4celkxzewodkymzgtzxhwswrfmtixnzg4mc1lehbjzf8zmzc4ndqtdhjhy2vjzf81nme3ntzknzzmnze0ngy1ymrmmwyymwqxnjjkoti4oa==.0&uni=8.1823&next=6.64.2.18216",
+      "market_price": "2699",
+      "name": "小米柔风空调 1.5匹新1级能效",
+      "price": "2399",
+      "product_desc": "强劲制冷 | 微孔送风 | 防骤冷化霜",
+      "product_desc_origin": "强劲制冷 | 微孔送风 | 防骤冷化霜",
+      "product_id": 18216,
+      "puzzle_url": "https://cdn.cnbj1.fds.api.mi-img.com/nr-pub/202206041357_21429638bdd453e8c1cb5c357ff4835b.png?w=800&h=800",
+      "satisfy_per": "",
+      "spm_stat": {
+        "scm": "server.0.0.0.product.1823.0.0",
+        "spm_code": "category_stmt.product.6",
+        "spm_params": "{\"product_id\":18216}"
+      }
+    },
+    {
+      "cat_id": 0,
+      "comments_total": "",
+      "is_multi_price": false,
+      "is_stock": false,
+      "log_code": "bpm=83.250.3881506.4&cdm=0.1.mjawms1naxnob3bsyw5rlxhpyw9tav9jyxrlz29yev9wywdllwv4celkxzgxnzq4ni1lehbjzf8xmjc4ndy4lwv4celkxzewodkymzgtzxhwswrfmtixnzg4mc1lehbjzf8zmzc4ndqtdhjhy2vjzf81nme3ntzknzzmnze0ngy1ymrmmwyymwqxnjjkoti4oa==.0&uni=8.1823&next=6.64.2.16339",
+      "market_price": "2999",
+      "name": "自然风 米家空调 1.5匹新1级能效 尊享版",
+      "price": "2999",
+      "product_desc": "金属拉丝 | 自然风感 | 智能互联",
+      "product_desc_origin": "金属拉丝 | 自然风感 | 智能互联",
+      "product_id": 16339,
+      "puzzle_url": "https://cdn.cnbj1.fds.api.mi-img.com/mi-mall/379cc3e5101a1f90b9bc565e2db914ef.png?w=800&h=800",
+      "satisfy_per": "",
+      "spm_stat": {
+        "scm": "server.0.0.0.product.1823.0.0",
+        "spm_code": "category_stmt.product.7",
+        "spm_params": "{\"product_id\":16339}"
+      }
+    },
+    {
+      "cat_id": 0,
+      "comments_total": "",
+      "is_multi_price": false,
+      "is_stock": false,
+      "log_code": "bpm=83.250.3881506.7&cdm=0.1.mjawms1naxnob3bsyw5rlxhpyw9tav9jyxrlz29yev9wywdllwv4celkxzgxnzq4ni1lehbjzf8xmjc4ndy4lwv4celkxzewodkymzgtzxhwswrfmtixnzg4mc1lehbjzf8zmzc4ndqtdhjhy2vjzf81nme3ntzknzzmnze0ngy1ymrmmwyymwqxnjjkoti4oa==.0&uni=8.1823&next=6.64.2.19360",
+      "market_price": "2899",
+      "name": "自然风 米家空调 1.5匹新1级能效",
+      "price": "2599",
+      "product_desc": "多重风感|立体广角导风板",
+      "product_desc_origin": "多重风感|立体广角导风板",
+      "product_id": 19360,
+      "puzzle_url": "https://cdn.cnbj1.fds.api.mi-img.com/nr-pub/202310231830_f7e9228b9ed04f60af1de35daf45e2f0.png?w=800&h=800",
+      "satisfy_per": "",
+      "spm_stat": {
+        "scm": "server.0.0.0.product.1823.0.0",
+        "spm_code": "category_stmt.product.8",
+        "spm_params": "{\"product_id\":19360}"
+      }
+    }
+  ],
+  "2匹/3匹挂机": [
+    {
+      "cat_id": 0,
+      "comments_total": "",
+      "is_multi_price": false,
+      "is_stock": false,
+      "log_code": "bpm=83.250.3881506.4&cdm=0.1.mjawms1naxnob3bsyw5rlxhpyw9tav9jyxrlz29yev9wywdllwv4celkxzgxnzq4ni1lehbjzf8xmjc4ndy4lwv4celkxzewodkymzgtzxhwswrfmtixnzg4mc1lehbjzf8zmzc4ndqtdhjhy2vjzf8xodq3ytu1yjcwowu0ogjhogrmy2vjnza3ntdlzgnlmq==.0&uni=8.1824&next=6.64.2.18362",
+      "market_price": "3199",
+      "name": "巨省电 米家空调 2匹新1级能效",
+      "price": "2899",
+      "product_desc": "全直流变频 | 速冷速热 | 智能互联",
+      "product_desc_origin": "全直流变频 | 速冷速热 | 智能互联",
+      "product_id": 18362,
+      "puzzle_url": "https://cdn.cnbj1.fds.api.mi-img.com/nr-pub/202209221935_9f4dbcd4bacd914a9990170260a9775d.png?w=800&h=800",
+      "satisfy_per": "",
+      "spm_stat": {
+        "scm": "server.0.0.0.product.1824.0.0",
+        "spm_code": "category_stmt.product.1",
+        "spm_params": "{\"product_id\":18362}"
+      }
+    },
+    {
+      "cat_id": 0,
+      "comments_total": "",
+      "is_multi_price": false,
+      "is_stock": false,
+      "log_code": "bpm=83.250.3881506.1&cdm=0.1.mjawms1naxnob3bsyw5rlxhpyw9tav9jyxrlz29yev9wywdllwv4celkxzgxnzq4ni1lehbjzf8xmjc4ndy4lwv4celkxzewodkymzgtzxhwswrfmtixnzg4mc1lehbjzf8zmzc4ndqtdhjhy2vjzf8xodq3ytu1yjcwowu0ogjhogrmy2vjnza3ntdlzgnlmq==.0&uni=8.1824&next=6.64.2.13646",
+      "market_price": "3299",
+      "name": "自然风 米家空调 2匹新1级能效 鎏金版",
+      "price": "3199",
+      "product_desc": "超强性能 | 舒适风感 | 智能互联",
+      "product_desc_origin": "超强性能 | 舒适风感 | 智能互联",
+      "product_id": 13646,
+      "puzzle_url": "https://cdn.cnbj1.fds.api.mi-img.com/mi-mall/9625fec73b98fffc2f61d49756cf0c84.png?w=800&h=800",
+      "satisfy_per": "",
+      "spm_stat": {
+        "scm": "server.0.0.0.product.1824.0.0",
+        "spm_code": "category_stmt.product.2",
+        "spm_params": "{\"product_id\":13646}"
+      }
+    },
+    {
+      "cat_id": 0,
+      "comments_total": "",
+      "is_multi_price": false,
+      "is_stock": false,
+      "log_code": "bpm=83.250.3881506.2&cdm=0.1.mjawms1naxnob3bsyw5rlxhpyw9tav9jyxrlz29yev9wywdllwv4celkxzgxnzq4ni1lehbjzf8xmjc4ndy4lwv4celkxzewodkymzgtzxhwswrfmtixnzg4mc1lehbjzf8zmzc4ndqtdhjhy2vjzf8xodq3ytu1yjcwowu0ogjhogrmy2vjnza3ntdlzgnlmq==.0&uni=8.1824&next=6.64.2.16565",
+      "market_price": "2999",
+      "name": "自然风 米家空调 2匹新3级能效 鎏金版",
+      "price": "2599",
+      "product_desc": "米家空调 自然风2匹 新三级能效 鎏金版",
+      "product_desc_origin": "米家空调 自然风2匹 新三级能效 鎏金版",
+      "product_id": 16565,
+      "puzzle_url": "https://cdn.cnbj1.fds.api.mi-img.com/nr-pub/202209201825_9625fec73b98fffc2f61d49756cf0c84.png?w=800&h=800",
+      "satisfy_per": "",
+      "spm_stat": {
+        "scm": "server.0.0.0.product.1824.0.0",
+        "spm_code": "category_stmt.product.3",
+        "spm_params": "{\"product_id\":16565}"
+      }
+    },
+    {
+      "cat_id": 0,
+      "comments_total": "",
+      "is_multi_price": false,
+      "is_stock": false,
+      "log_code": "bpm=83.250.3881506.3&cdm=0.1.mjawms1naxnob3bsyw5rlxhpyw9tav9jyxrlz29yev9wywdllwv4celkxzgxnzq4ni1lehbjzf8xmjc4ndy4lwv4celkxzewodkymzgtzxhwswrfmtixnzg4mc1lehbjzf8zmzc4ndqtdhjhy2vjzf8xodq3ytu1yjcwowu0ogjhogrmy2vjnza3ntdlzgnlmq==.0&uni=8.1824&next=6.64.2.18205",
+      "market_price": "4299",
+      "name": "自然风 米家空调 3匹新2级能效 鎏金版",
+      "price": "3999",
+      "product_desc": "小身材 大能量 | 自然风感",
+      "product_desc_origin": "小身材 大能量 | 自然风感",
+      "product_id": 18205,
+      "puzzle_url": "https://cdn.cnbj1.fds.api.mi-img.com/nr-pub/202302171640_514b4d9e4ebf604806b93aeb0254e2a4.png?w=800&h=800",
+      "satisfy_per": "",
+      "spm_stat": {
+        "scm": "server.0.0.0.product.1824.0.0",
+        "spm_code": "category_stmt.product.4",
+        "spm_params": "{\"product_id\":18205}"
+      }
+    },
+    {
+      "cat_id": 0,
+      "comments_total": "",
+      "is_multi_price": false,
+      "is_stock": false,
+      "log_code": "bpm=83.250.3881506.5&cdm=0.1.mjawms1naxnob3bsyw5rlxhpyw9tav9jyxrlz29yev9wywdllwv4celkxzgxnzq4ni1lehbjzf8xmjc4ndy4lwv4celkxzewodkymzgtzxhwswrfmtixnzg4mc1lehbjzf8zmzc4ndqtdhjhy2vjzf8xodq3ytu1yjcwowu0ogjhogrmy2vjnza3ntdlzgnlmq==.0&uni=8.1824&next=6.64.2.19057",
+      "market_price": "3099",
+      "name": "巨省电 米家空调 2匹新3级能效",
+      "price": "2699",
+      "product_desc": "小身材大能量 | 智能互联",
+      "product_desc_origin": "小身材大能量 | 智能互联",
+      "product_id": 19057,
+      "puzzle_url": "https://cdn.cnbj1.fds.api.mi-img.com/nr-pub/202308081128_943fd4afb263fcf43e1c9b463b568aca.png?w=800&h=800",
+      "satisfy_per": "",
+      "spm_stat": {
+        "scm": "server.0.0.0.product.1824.0.0",
+        "spm_code": "category_stmt.product.5",
+        "spm_params": "{\"product_id\":19057}"
+      }
+    }
+  ],
+  "2匹柜机": [
+    {
+      "cat_id": 0,
+      "comments_total": "",
+      "is_multi_price": false,
+      "is_stock": false,
+      "log_code": "bpm=83.250.3881506.2&cdm=0.1.mjawms1naxnob3bsyw5rlxhpyw9tav9jyxrlz29yev9wywdllwv4celkxzgxnzq4ni1lehbjzf8xmjc4ndy4lwv4celkxzewodkymzgtzxhwswrfmtixnzg4mc1lehbjzf8zmzc4ndqtdhjhy2vjzf82njfjmjg4mtc0zwu0mmuzowzjmgnjowq0ogm3nji2yq==.0&uni=8.1825&next=6.64.2.13148",
+      "market_price": "4299",
+      "name": "巨省电 小米空调 立式2匹新1级能效  ",
+      "price": "3799",
+      "product_desc": "高效节能 | 立体送风 | 智能互联",
+      "product_desc_origin": "高效节能 | 立体送风 | 智能互联",
+      "product_id": 13148,
+      "puzzle_url": "https://cdn.cnbj1.fds.api.mi-img.com/mi-mall/ef5d9574acfb9ef810ec5b843894c554.png?w=800&h=800",
+      "satisfy_per": "",
+      "spm_stat": {
+        "scm": "server.0.0.0.product.1825.0.0",
+        "spm_code": "category_stmt.product.1",
+        "spm_params": "{\"product_id\":13148}"
+      }
+    },
+    {
+      "cat_id": 0,
+      "comments_total": "",
+      "is_multi_price": false,
+      "is_stock": false,
+      "log_code": "bpm=83.250.3881506.1&cdm=0.1.mjawms1naxnob3bsyw5rlxhpyw9tav9jyxrlz29yev9wywdllwv4celkxzgxnzq4ni1lehbjzf8xmjc4ndy4lwv4celkxzewodkymzgtzxhwswrfmtixnzg4mc1lehbjzf8zmzc4ndqtdhjhy2vjzf82njfjmjg4mtc0zwu0mmuzowzjmgnjowq0ogm3nji2yq==.0&uni=8.1825&next=6.64.2.12862",
+      "market_price": "3699",
+      "name": "巨省电 小米空调 立式2匹新3级能效",
+      "price": "3499",
+      "product_desc": "节能省电 | 强劲制冷 | 智能互联",
+      "product_desc_origin": "节能省电 | 强劲制冷 | 智能互联",
+      "product_id": 12862,
+      "puzzle_url": "https://cdn.cnbj1.fds.api.mi-img.com/mi-mall/057a640743fb34a6e2c164319be98633.png?w=800&h=800",
+      "satisfy_per": "",
+      "spm_stat": {
+        "scm": "server.0.0.0.product.1825.0.0",
+        "spm_code": "category_stmt.product.2",
+        "spm_params": "{\"product_id\":12862}"
+      }
+    }
+  ],
+  "3匹柜机": [
+    {
+      "cat_id": 0,
+      "comments_total": "",
+      "is_multi_price": false,
+      "is_stock": false,
+      "log_code": "bpm=83.250.3881506.3&cdm=0.1.mjawms1naxnob3bsyw5rlxhpyw9tav9jyxrlz29yev9wywdllwv4celkxzgxnzq4ni1lehbjzf8xmjc4ndy4lwv4celkxzewodkymzgtzxhwswrfmtixnzg4mc1lehbjzf8zmzc4ndqtdhjhy2vjzf8xmmuwowqzn2q3ngm0zdu5yjzkn2iwnjdjm2exndc5mw==.0&uni=8.1826&next=6.64.2.15875",
+      "market_price": "6699",
+      "name": "自然风 米家空调 立式3匹新1级能效",
+      "price": "5999",
+      "product_desc": "米家空调 自然风立式3匹（变频/新一级）",
+      "product_desc_origin": "米家空调 自然风立式3匹（变频/新一级）",
+      "product_id": 15875,
+      "puzzle_url": "https://cdn.cnbj1.fds.api.mi-img.com/mi-mall/f3790e59a9a4b9f0bb62b252dccb9bbd.png?w=800&h=800",
+      "satisfy_per": "",
+      "spm_stat": {
+        "scm": "server.0.0.0.product.1826.0.0",
+        "spm_code": "category_stmt.product.1",
+        "spm_params": "{\"product_id\":15875}"
+      }
+    },
+    {
+      "cat_id": 0,
+      "comments_total": "",
+      "is_multi_price": false,
+      "is_stock": false,
+      "log_code": "bpm=83.250.3881506.2&cdm=0.1.mjawms1naxnob3bsyw5rlxhpyw9tav9jyxrlz29yev9wywdllwv4celkxzgxnzq4ni1lehbjzf8xmjc4ndy4lwv4celkxzewodkymzgtzxhwswrfmtixnzg4mc1lehbjzf8zmzc4ndqtdhjhy2vjzf8xmmuwowqzn2q3ngm0zdu5yjzkn2iwnjdjm2exndc5mw==.0&uni=8.1826&next=6.64.2.13149",
+      "market_price": "5299",
+      "name": "巨省电 小米空调 立式3匹新1级能效  ",
+      "price": "5299",
+      "product_desc": "高效节能 | 立体送风 | 智能互联",
+      "product_desc_origin": "高效节能 | 立体送风 | 智能互联",
+      "product_id": 13149,
+      "puzzle_url": "https://cdn.cnbj1.fds.api.mi-img.com/mi-mall/ef5d9574acfb9ef810ec5b843894c554.png?w=800&h=800",
+      "satisfy_per": "",
+      "spm_stat": {
+        "scm": "server.0.0.0.product.1826.0.0",
+        "spm_code": "category_stmt.product.2",
+        "spm_params": "{\"product_id\":13149}"
+      }
+    },
+    {
+      "cat_id": 0,
+      "comments_total": "",
+      "is_multi_price": false,
+      "is_stock": false,
+      "log_code": "bpm=83.250.3881506.1&cdm=0.1.mjawms1naxnob3bsyw5rlxhpyw9tav9jyxrlz29yev9wywdllwv4celkxzgxnzq4ni1lehbjzf8xmjc4ndy4lwv4celkxzewodkymzgtzxhwswrfmtixnzg4mc1lehbjzf8zmzc4ndqtdhjhy2vjzf8xmmuwowqzn2q3ngm0zdu5yjzkn2iwnjdjm2exndc5mw==.0&uni=8.1826&next=6.64.2.13402",
+      "market_price": "4699",
+      "name": "巨省电 小米空调 立式3匹新3级能效  ",
+      "price": "4599",
+      "product_desc": "节能省电 | 强劲制冷 | 智能互联",
+      "product_desc_origin": "节能省电 | 强劲制冷 | 智能互联",
+      "product_id": 13402,
+      "puzzle_url": "https://cdn.cnbj1.fds.api.mi-img.com/mi-mall/ebfc41e68ff3fd1e8330f929c4bfac21.png?w=800&h=800",
+      "satisfy_per": "",
+      "spm_stat": {
+        "scm": "server.0.0.0.product.1826.0.0",
+        "spm_code": "category_stmt.product.3",
+        "spm_params": "{\"product_id\":13402}"
+      }
+    },
+    {
+      "cat_id": 0,
+      "comments_total": "",
+      "is_multi_price": false,
+      "is_stock": false,
+      "log_code": "bpm=83.250.3881506.4&cdm=0.1.mjawms1naxnob3bsyw5rlxhpyw9tav9jyxrlz29yev9wywdllwv4celkxzgxnzq4ni1lehbjzf8xmjc4ndy4lwv4celkxzewodkymzgtzxhwswrfmtixnzg4mc1lehbjzf8zmzc4ndqtdhjhy2vjzf8xmmuwowqzn2q3ngm0zdu5yjzkn2iwnjdjm2exndc5mw==.0&uni=8.1826&next=6.64.2.16567",
+      "market_price": "6999",
+      "name": "柔风 小米空调 立式3匹新1级能效",
+      "price": "5499",
+      "product_desc": "小米柔风立式空调 3匹 新一级能效",
+      "product_desc_origin": "小米柔风立式空调 3匹 新一级能效",
+      "product_id": 16567,
+      "puzzle_url": "https://cdn.cnbj1.fds.api.mi-img.com/mi-mall/eba8fa6964f22d4f0c848fd1ef56c3f7.png?w=800&h=800",
+      "satisfy_per": "",
+      "spm_stat": {
+        "scm": "server.0.0.0.product.1826.0.0",
+        "spm_code": "category_stmt.product.4",
+        "spm_params": "{\"product_id\":16567}"
+      }
+    }
+  ],
+  "5匹柜机": {
+    "action": {
+      "log_code": "31wapcategory_homecategory_group001077#t=normal&act=product&page=category_home&pid=19031&bid=4263502.1&bpm=83.247.3645590.7&cdm=&uni=8.1186&next=6.64.2.19031&tag=8.19031",
+      "path": "19031",
+      "type": "product"
+    },
+    "category_name": "空调",
+    "img_url": "//cdn.cnbj1.fds.api.mi-img.com/mi-mall/40af2e3a221892b19ab9a282a27cdf48.png",
+    "img_url_webp": "//cdn.cnbj1.fds.api.mi-img.com/mi-mall/40af2e3a221892b19ab9a282a27cdf48.png",
+    "product_name": "5匹柜机"
+  },
+  "空调套购": [
+    {
+      "cat_id": 0,
+      "comments_total": "",
+      "is_multi_price": false,
+      "is_stock": false,
+      "log_code": "bpm=83.250.3881506.3&cdm=0.1.mjawms1naxnob3bsyw5rlxhpyw9tav9jyxrlz29yev9wywdllwv4celkxzgxnzq4ni1lehbjzf8xmjc4ndy4lwv4celkxzewodkymzgtzxhwswrfmtixnzg4mc1lehbjzf8zmzc4ndqtdhjhy2vjzf9iowm4n2jmyjdiy2m0y2njowm4ywi3zjfjotmzzwi1oa==.0&uni=8.2336&next=6.64.2.18176",
+      "market_price": "10097",
+      "name": "两挂一柜（3匹）全屋空调套餐 巨省电系列",
+      "price": "9097",
+      "product_desc": "两挂一柜（3匹）全屋空调套餐 巨省电系列",
+      "product_desc_origin": "两挂一柜（3匹）全屋空调套餐 巨省电系列",
+      "product_id": 18176,
+      "puzzle_url": "https://cdn.cnbj1.fds.api.mi-img.com/nr-pub/202302021947_67d0d41c363643e2b32e76c02349b1ad.png?w=800&h=800",
+      "satisfy_per": "",
+      "spm_stat": {
+        "scm": "server.0.0.0.product.2336.0.0",
+        "spm_code": "category_stmt.product.1",
+        "spm_params": "{\"product_id\":18176}"
+      }
+    },
+    {
+      "cat_id": 0,
+      "comments_total": "",
+      "is_multi_price": false,
+      "is_stock": false,
+      "log_code": "bpm=83.250.3881506.5&cdm=0.1.mjawms1naxnob3bsyw5rlxhpyw9tav9jyxrlz29yev9wywdllwv4celkxzgxnzq4ni1lehbjzf8xmjc4ndy4lwv4celkxzewodkymzgtzxhwswrfmtixnzg4mc1lehbjzf8zmzc4ndqtdhjhy2vjzf9iowm4n2jmyjdiy2m0y2njowm4ywi3zjfjotmzzwi1oa==.0&uni=8.2336&next=6.64.2.18297",
+      "market_price": "10497",
+      "name": "两挂一柜（3匹）全屋空调套餐 巨省电+柔风",
+      "price": "9497",
+      "product_desc": "两挂一柜（3匹）全屋空调套餐 巨省电+柔风",
+      "product_desc_origin": "两挂一柜（3匹）全屋空调套餐 巨省电+柔风",
+      "product_id": 18297,
+      "puzzle_url": "https://cdn.cnbj1.fds.api.mi-img.com/nr-pub/202302021947_67d0d41c363643e2b32e76c02349b1ad.png?w=800&h=800",
+      "satisfy_per": "",
+      "spm_stat": {
+        "scm": "server.0.0.0.product.2336.0.0",
+        "spm_code": "category_stmt.product.2",
+        "spm_params": "{\"product_id\":18297}"
+      }
+    },
+    {
+      "cat_id": 0,
+      "comments_total": "",
+      "is_multi_price": false,
+      "is_stock": false,
+      "log_code": "bpm=83.250.3881506.4&cdm=0.1.mjawms1naxnob3bsyw5rlxhpyw9tav9jyxrlz29yev9wywdllwv4celkxzgxnzq4ni1lehbjzf8xmjc4ndy4lwv4celkxzewodkymzgtzxhwswrfmtixnzg4mc1lehbjzf8zmzc4ndqtdhjhy2vjzf9iowm4n2jmyjdiy2m0y2njowm4ywi3zjfjotmzzwi1oa==.0&uni=8.2336&next=6.64.2.18287",
+      "market_price": "9298",
+      "name": "一挂一柜（3匹）全屋空调套餐 柔风+巨省电 ",
+      "price": "7298",
+      "product_desc": "一挂一柜（3匹）全屋空调套餐 柔风+巨省电",
+      "product_desc_origin": "一挂一柜（3匹）全屋空调套餐 柔风+巨省电",
+      "product_id": 18287,
+      "puzzle_url": "https://cdn.cnbj1.fds.api.mi-img.com/nr-pub/202303281923_3b9ebd24f96ac04d2b2bc9addfb78051.png?w=800&h=800",
+      "satisfy_per": "",
+      "spm_stat": {
+        "scm": "server.0.0.0.product.2336.0.0",
+        "spm_code": "category_stmt.product.3",
+        "spm_params": "{\"product_id\":18287}"
+      }
+    },
+    {
+      "cat_id": 0,
+      "comments_total": "",
+      "is_multi_price": false,
+      "is_stock": false,
+      "log_code": "bpm=83.250.3881506.1&cdm=0.1.mjawms1naxnob3bsyw5rlxhpyw9tav9jyxrlz29yev9wywdllwv4celkxzgxnzq4ni1lehbjzf8xmjc4ndy4lwv4celkxzewodkymzgtzxhwswrfmtixnzg4mc1lehbjzf8zmzc4ndqtdhjhy2vjzf9iowm4n2jmyjdiy2m0y2njowm4ywi3zjfjotmzzwi1oa==.0&uni=8.2336&next=6.64.2.15211",
+      "market_price": "6798",
+      "name": "一挂一柜（2匹）全屋空调套餐 巨省电系列",
+      "price": "5898",
+      "product_desc": "一挂一柜（2匹）全屋空调套餐 巨省电系列",
+      "product_desc_origin": "一挂一柜（2匹）全屋空调套餐 巨省电系列",
+      "product_id": 15211,
+      "puzzle_url": "https://cdn.cnbj1.fds.api.mi-img.com/nr-pub/202303311135_09eca47ff1ce28f6cb75eaea5de6c653.png?w=800&h=800",
+      "satisfy_per": "",
+      "spm_stat": {
+        "scm": "server.0.0.0.product.2336.0.0",
+        "spm_code": "category_stmt.product.4",
+        "spm_params": "{\"product_id\":15211}"
+      }
+    },
+    {
+      "cat_id": 0,
+      "comments_total": "",
+      "is_multi_price": false,
+      "is_stock": false,
+      "log_code": "bpm=83.250.3881506.2&cdm=0.1.mjawms1naxnob3bsyw5rlxhpyw9tav9jyxrlz29yev9wywdllwv4celkxzgxnzq4ni1lehbjzf8xmjc4ndy4lwv4celkxzewodkymzgtzxhwswrfmtixnzg4mc1lehbjzf8zmzc4ndqtdhjhy2vjzf9iowm4n2jmyjdiy2m0y2njowm4ywi3zjfjotmzzwi1oa==.0&uni=8.2336&next=6.64.2.15969",
+      "market_price": "7798",
+      "name": "一挂一柜（3匹）全屋空调套餐 巨省电系列",
+      "price": "7098",
+      "product_desc": "一挂一柜（3匹）全屋空调套餐 巨省电系列",
+      "product_desc_origin": "一挂一柜（3匹）全屋空调套餐 巨省电系列",
+      "product_id": 15969,
+      "puzzle_url": "https://cdn.cnbj1.fds.api.mi-img.com/nr-pub/202303311135_09eca47ff1ce28f6cb75eaea5de6c653.png?w=800&h=800",
+      "satisfy_per": "",
+      "spm_stat": {
+        "scm": "server.0.0.0.product.2336.0.0",
+        "spm_code": "category_stmt.product.5",
+        "spm_params": "{\"product_id\":15969}"
+      }
+    }
+  ],
+  "中央空调": {
+    "action": {
+      "log_code": "31wapcategory_homecategory_group003077#t=normal&act=product&page=category_home&pid=19246&bid=4320884.1&bpm=83.247.3645590.9&cdm=&uni=8.1186&next=6.64.2.19246&tag=8.19246",
+      "path": "19246",
+      "type": "product"
+    },
+    "category_name": "空调",
+    "img_url": "//cdn.cnbj1.fds.api.mi-img.com/mi-mall/5420d0a9f0e651054aef1352b4b3b10a.png",
+    "img_url_webp": "//cdn.cnbj1.fds.api.mi-img.com/mi-mall/5420d0a9f0e651054aef1352b4b3b10a.png",
+    "product_name": "中央空调"
+  }
+}
