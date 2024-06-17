@@ -1,5 +1,5 @@
 # XiaomiMall-Python
-`XiaomiMall-Python` 是为小米商城前端项目提供支持的后端项目，采用 Python 的 Flask 框架开发的 Web 服务。它可以实时获取小米商城接口数据，并与前端项目协同工作。
+`XiaomiMall-Python` 是为仿小米商城前端项目(https://github.com/2375137/XiaomiMall.git)提供支持的后端项目，采用 Python 的 Flask 框架开发的 Web 服务。它可以实时获取小米商城接口数据，并与前端项目协同工作。
 ## 项目概述
 本项目旨在为小米商城前端提供数据接口服务，通过 Flask 框架搭建 RESTful API，实现用户登录、购物车管理、商品信息展示等功能。后端服务与小米商城 API 进行交互，处理客户端请求，并返回相应的数据。
 ## 功能特点
@@ -7,7 +7,6 @@
 - 用户认证与会话管理。
 - 购物车功能实现。
 - 商品与订单管理。
-- 使用 HTTPS 保证通信安全。
 - RESTful API 设计，便于与前端集成。
 ## 使用技术
 - Python
