@@ -43,7 +43,7 @@ Python app.py
 3. 提交您的更改。
 4. 创建拉取请求。
 ## 许可证
-本项目使用 MIT 许可证。更多信息请参阅 LICENSE 文件。
+本项目使用 Apache2.0 许可证。更多信息请参阅 LICENSE 文件。
 ## 联系方式
 如有任何问题或建议，请开启一个 issue 或联系维护者。
 欢迎使用 `XiaomiMall-Python`！
